@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1,24/7 : Cine PopCorn 1
 #EXTVLCOPT:http-user-agent=AppleWeb537
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/99.ts
