@@ -1,1268 +1,1428 @@
 #EXTM3U
-
-
-#EXTINF:-1,24/7 : Cine PopCorn 1
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/99.ts
-
-#EXTINF:-1,24/7 : Cine PopCorn 2
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/102.ts
-
-#EXTINF:-1,24/7 : Cine PopCorn 3
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/103.ts
-
-#EXTINF:-1,24/7 : Cine PopCorn 4
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/104.ts
-
-#EXTINF:-1,24/7 : Cine PopCorn 5
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/131.ts
-
-#EXTINF:-1,24/7 : Cine PopCorn 50 Best Films
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/112.ts
-
-#EXTINF:-1,24/7 : Cine PopCorn 6
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/132.ts
-
-#EXTINF:-1,24/7 : Cine PopCorn 7
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/133.ts
-
-#EXTINF:-1,24/7 : Cine PopCorn 8
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/134.ts
-
-#EXTINF:-1,ARG : AXN HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/178.ts
-
-#EXTINF:-1,BRA : Discovery Channel HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/555.ts
-
-#EXTINF:-1,BRA : HBO Brasil
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/560.ts
-
-#EXTINF:-1,BRA : History Channel HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/559.ts
-
-#EXTINF:-1,BRA : STB HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/558.ts
-
-#EXTINF:-1,CA : Bloomberg HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/464.ts
-
-#EXTINF:-1,CA : Discovery Velocity HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/401.ts
-
-#EXTINF:-1,COL : NTN 24 News
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/494.ts
-
-#EXTINF:-1,COL : RCN HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/87.ts
-
-#EXTINF:-1,DO : Tu Musica HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/54.ts
-
-#EXTINF:-1,DO : Univision Latinoamerica
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/397.ts
-
-#EXTINF:-1,DO : Z 101 FM TV
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/157.ts
-
-#EXTINF:-1,ES : ¡Hola! TV HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/27.ts
-
-#EXTINF:-1,ES : 24h TVE |ES
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/29.ts
-
-#EXTINF:-1,ES : A3Series HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/21.ts
-
-#EXTINF:-1,ES : Antena 3 HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/22.ts
-
-#EXTINF:-1,ES : Canal Cocina HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/28.ts
-
-#EXTINF:-1,ES : De Caza
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/26.ts
-
-#EXTINF:-1,ES : Divinite HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/16.ts
-
-#EXTINF:-1,ES : FDF HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/24.ts
-
-#EXTINF:-1,ES : LA 1
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/17.ts
-
-#EXTINF:-1,ES : LA 2 |ES
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/15.ts
-
-#EXTINF:-1,ES : La Cuatro HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/18.ts
-
-#EXTINF:-1,ES : La Sexta HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/37.ts
-
-#EXTINF:-1,ES : Mega HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/38.ts
-
-#EXTINF:-1,ES : Odisea TV
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/31.ts
-
-#EXTINF:-1,ES : Tele Cinco HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/19.ts
-
-#EXTINF:-1,ES : TV Viajes Pluto
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/25.ts
-
-#EXTINF:-1,ES : TVE
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/20.ts
-
-#EXTINF:-1,LAT :  Spectrum Noticias NY
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/57.ts
-
-#EXTINF:-1,LAT : A&E HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/187.ts
-
-#EXTINF:-1,LAT : AMC HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/186.ts
-
-#EXTINF:-1,LAT : Animal Planet HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/174.ts
-
-#EXTINF:-1,LAT : Antena 3 Internacional
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/23.ts
-
-#EXTINF:-1,LAT : AXN MX HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/177.ts
-
-#EXTINF:-1,LAT : Baby First HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/390.ts
-
-#EXTINF:-1,LAT : Baby TV HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/391.ts
-
-#EXTINF:-1,LAT : Boomerang HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/386.ts
-
-#EXTINF:-1,LAT : Canal Sony HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/179.ts
-
-#EXTINF:-1,LAT : Cartoon Newtwork HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/381.ts
-
-#EXTINF:-1,LAT : Centro America TV HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/380.ts
-
-#EXTINF:-1,LAT : Cine Canal HD VIP
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/4.ts
-
-#EXTINF:-1,LAT : Cinemax HD VIP
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/55.ts
-
-#EXTINF:-1,LAT : Comedy Central HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/184.ts
-
-#EXTINF:-1,LAT : De Peliculas HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/532.ts
-
-#EXTINF:-1,LAT : Discovery Familia
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/56.ts
-
-#EXTINF:-1,LAT : Discovery Kids HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/388.ts
-
-#EXTINF:-1,LAT : Discovery Science HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/165.ts
-
-#EXTINF:-1,LAT : Disney Channel HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/398.ts
-
-#EXTINF:-1,LAT : Disney Junior HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/399.ts
-
-#EXTINF:-1,LAT : Disney XD HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/400.ts
-
-#EXTINF:-1,LAT : DW LatinoAmerica (W)
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/379.ts
-
-#EXTINF:-1,LAT : E! Entreteiment HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/188.ts
-
-#EXTINF:-1,LAT : El Gourmet HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/189.ts
-
-#EXTINF:-1,LAT : Estrellas TV
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/77.ts
-
-#EXTINF:-1,LAT : Foro tv HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/541.ts
-
-#EXTINF:-1,LAT : France 24 (W)
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/378.ts
-
-#EXTINF:-1,LAT : Galavision HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/85.ts
-
-#EXTINF:-1,LAT : Golden HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/190.ts
-
-#EXTINF:-1,LAT : H2 History 2 HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/173.ts
-
-#EXTINF:-1,LAT : HBO 2 HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/168.ts
-
-#EXTINF:-1,LAT : HBO Family HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/169.ts
-
-#EXTINF:-1,LAT : HBO HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/167.ts
-
-#EXTINF:-1,LAT : HBO PLUS HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/170.ts
-
-#EXTINF:-1,LAT : HBO POP
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/61.ts
-
-#EXTINF:-1,LAT : HBO Signature HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/171.ts
-
-#EXTINF:-1,LAT : HBO XTREME HD VIP
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/91.ts
-
-#EXTINF:-1,LAT : HispanTV WEB
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/377.ts
-
-#EXTINF:-1,LAT : HITN HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/376.ts
-
-#EXTINF:-1,LAT : Las Estrellas
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/88.ts
-
-#EXTINF:-1,LAT : LifeTime HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/370.ts
-
-#EXTINF:-1,LAT : MEGA TV Miami HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/483.ts
-
-#EXTINF:-1,LAT : MTV 80´S HD VIP
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/373.ts
-
-#EXTINF:-1,LAT : MTV HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/372.ts
-
-#EXTINF:-1,LAT : MTV Hits HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/374.ts
-
-#EXTINF:-1,LAT : MTV LIVE HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/375.ts
-
-#EXTINF:-1,LAT : NatGeo Kids HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/389.ts
-
-#EXTINF:-1,LAT : NatGeo Wild HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/172.ts
-
-#EXTINF:-1,LAT : Nick Jr. HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/385.ts
-
-#EXTINF:-1,LAT : Nickelodeon HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/382.ts
-
-#EXTINF:-1,LAT : Nicktoon HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/383.ts
-
-#EXTINF:-1,LAT : Paramount Channel HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/180.ts
-
-#EXTINF:-1,LAT : Pasiones Pan
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/10.ts
-
-#EXTINF:-1,LAT : Pasiones USA
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/11.ts
-
-#EXTINF:-1,LAT : Space HD VIP
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/182.ts
-
-#EXTINF:-1,LAT : Star Channel HD VIP
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/5.ts
-
-#EXTINF:-1,LAT : Starz Black HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/485.ts
-
-#EXTINF:-1,LAT : Starz Cinema HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/478.ts
-
-#EXTINF:-1,LAT : Starz Edge HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/484.ts
-
-#EXTINF:-1,LAT : Starz Encore Action HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/479.ts
-
-#EXTINF:-1,LAT : Starz Encore Classic HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/482.ts
-
-#EXTINF:-1,LAT : Starz Encore Family HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/481.ts
-
-#EXTINF:-1,LAT : Starz Encore Suspense
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/486.ts
-
-#EXTINF:-1,LAT : Starz Encore Western HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/487.ts
-
-#EXTINF:-1,LAT : Starz HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/480.ts
-
-#EXTINF:-1,LAT : Studio Universal HD VIP
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/163.ts
-
-#EXTINF:-1,LAT : SyFy Channel HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/181.ts
-
-#EXTINF:-1,LAT : TCM
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/183.ts
-
-#EXTINF:-1,LAT : Teen Nick HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/384.ts
-
-#EXTINF:-1,LAT : Telehits HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/542.ts
-
-#EXTINF:-1,LAT : Telemundo Internacional
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/161.ts
-
-#EXTINF:-1,LAT : TLC HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/371.ts
-
-#EXTINF:-1,LAT : TNT HD VIP
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/1.ts
-
-#EXTINF:-1,LAT : Tooncast HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/387.ts
-
-#EXTINF:-1,LAT : TruTV HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/185.ts
-
-#EXTINF:-1,LAT : TUDN TRANSCODER ORIGINAL HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/120.ts
-
-#EXTINF:-1,LAT : Universal Channels TV HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/175.ts
-
-#EXTINF:-1,LAT : Univision Novelas HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/86.ts
-
-#EXTINF:-1,LAT : Warner Channel HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/176.ts
-
-#EXTINF:-1,LAT : Discovery Channel MX VIP
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/92.ts
-
-#EXTINF:-1,LAT : Discovery Theather HD VIP
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/166.ts
-
-#EXTINF:-1,LAT : Discovery Turbo HD VIP
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/76.ts
-
-#EXTINF:-1,LAT : Discovery World HD VIP
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/164.ts
-
-#EXTINF:-1,MEX : Az Cinema HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/539.ts
-
-#EXTINF:-1,MEX : AZ Clic! HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/538.ts
-
-#EXTINF:-1,MEX : AZ Corazon HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/535.ts
-
-#EXTINF:-1,MEX : AZ Mundo HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/536.ts
-
-#EXTINF:-1,MEX : Azteca 7 HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/534.ts
-
-#EXTINF:-1,MEX : Azteca Uno HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/537.ts
-
-#EXTINF:-1,MEX : Canal 5 HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/30.ts
-
-#EXTINF:-1,MEX : Canal Nu9ve HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/543.ts
-
-#EXTINF:-1,MEX : TL Novelas
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/533.ts
-
-#EXTINF:-1,MEX : Distrito Comedia
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/540.ts
-
-#EXTINF:-1,PE : Frecuencia Latina
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/563.ts
-
-#EXTINF:-1,PR : Telemundo Puerto Rico HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/13.ts
-
-#EXTINF:-1,PR : Univision Puerto Rico HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/39.ts
-
-#EXTINF:-1,PR : Wapa America
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/12.ts
-
-#EXTINF:-1,PR : Wapa TV
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/489.ts
-
-#EXTINF:-1,REL : EWTN LATINO (W)
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/492.ts
-
-#EXTINF:-1,US : 69 WFMZ Philadelphia HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/407.ts
-
-#EXTINF:-1,US : A&E HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/446.ts
-
-#EXTINF:-1,US : ABC 7 HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/49.ts
-
-#EXTINF:-1,US : ABC Miami HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/53.ts
-
-#EXTINF:-1,US : ABC NEWS HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/60.ts
-
-#EXTINF:-1,US : AMC HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/429.ts
-
-#EXTINF:-1,US : America TeVe
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/488.ts
-
-#EXTINF:-1,US : Animal Planet HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/457.ts
-
-#EXTINF:-1,US : Baby First HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/426.ts
-
-#EXTINF:-1,US : Baby TV HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/425.ts
-
-#EXTINF:-1,US : BET HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/437.ts
-
-#EXTINF:-1,US : Boomerang HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/420.ts
-
-#EXTINF:-1,US : Cartoon Network HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/414.ts
-
-#EXTINF:-1,US : CBN HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/71.ts
-
-#EXTINF:-1,US : CBS 12 WPRI Providence HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/58.ts
-
-#EXTINF:-1,US : CBS 2 NY HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/48.ts
-
-#EXTINF:-1,US : CBS NEWS NY
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/66.ts
-
-#EXTINF:-1,US : CNBC HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/404.ts
-
-#EXTINF:-1,US : CNN HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/35.ts
-
-#EXTINF:-1,US : Comedy Central HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/436.ts
-
-#EXTINF:-1,US : Cooking Channel HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/441.ts
-
-#EXTINF:-1,US : Discovery Channels HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/452.ts
-
-#EXTINF:-1,US : Discovery Family HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/454.ts
-
-#EXTINF:-1,US : Discovery Investigation HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/453.ts
-
-#EXTINF:-1,US : Discovery Science HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/455.ts
-
-#EXTINF:-1,US : Discovery Turbo UK
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/456.ts
-
-#EXTINF:-1,US : Disney Channel HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/422.ts
-
-#EXTINF:-1,US : Disney Jr. HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/423.ts
-
-#EXTINF:-1,US : Disney XD HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/424.ts
-
-#EXTINF:-1,US : Diy Network HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/411.ts
-
-#EXTINF:-1,US : E! Entertaiment HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/431.ts
-
-#EXTINF:-1,US : EWTN ENGLISH
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/493.ts
-
-#EXTINF:-1,US : Food Network HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/7.ts
-
-#EXTINF:-1,US : Fox 5 NY HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/34.ts
-
-#EXTINF:-1,US : Fox Business Network HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/450.ts
-
-#EXTINF:-1,US : Fox News HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/410.ts
-
-#EXTINF:-1,US : FreeForm HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/448.ts
-
-#EXTINF:-1,US : FX HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/438.ts
-
-#EXTINF:-1,US : FXM HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/439.ts
-
-#EXTINF:-1,US : Game Show Network HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/449.ts
-
-#EXTINF:-1,US : HallMark Drama HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/463.ts
-
-#EXTINF:-1,US : HallMark HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/461.ts
-
-#EXTINF:-1,US : Hallmark Movies & Mist. HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/462.ts
-
-#EXTINF:-1,US : HBO 2 HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/465.ts
-
-#EXTINF:-1,US : HBO Comedy HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/467.ts
-
-#EXTINF:-1,US : HBO Family HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/466.ts
-
-#EXTINF:-1,US : HBO HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/8.ts
-
-#EXTINF:-1,US : HBO ZONE HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/9.ts
-
-#EXTINF:-1,US : HGTV HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/51.ts
-
-#EXTINF:-1,US : History Channel HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/458.ts
-
-#EXTINF:-1,US : Ion Television
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/74.ts
-
-#EXTINF:-1,US : LifeTime HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/434.ts
-
-#EXTINF:-1,US : MSNBC HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/405.ts
-
-#EXTINF:-1,US : MTV 2 HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/444.ts
-
-#EXTINF:-1,US : MTV Classic HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/443.ts
-
-#EXTINF:-1,US : MTV HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/442.ts
-
-#EXTINF:-1,US : Nasa TV
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/162.ts
-
-#EXTINF:-1,US : NatGeo HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/459.ts
-
-#EXTINF:-1,US : NatGeo Wild HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/460.ts
-
-#EXTINF:-1,US : NBC 4 NY HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/52.ts
-
-#EXTINF:-1,US : News 12 Bronx
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/100.ts
-
-#EXTINF:-1,US : News 12 Long Island HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/413.ts
-
-#EXTINF:-1,US : News 12 New Jersey HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/59.ts
-
-#EXTINF:-1,US : Nick Jr HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/417.ts
-
-#EXTINF:-1,US : Nickelodeon HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/416.ts
-
-#EXTINF:-1,US : Nicktoon HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/419.ts
-
-#EXTINF:-1,US : One American News Network HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/403.ts
-
-#EXTINF:-1,US : Oprah Winfrey Network HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/427.ts
-
-#EXTINF:-1,US : Oxygen Channel HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/433.ts
-
-#EXTINF:-1,US : Pay-Per-View ( PPV ) Event 1
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/94.ts
-
-#EXTINF:-1,US : Pay-Per-View ( PPV ) Event 2
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/95.ts
-
-#EXTINF:-1,US : Pay-Per-View ( PPV ) Event 3
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/96.ts
-
-#EXTINF:-1,US : Pay-Per-View ( PPV ) Event 4
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/97.ts
-
-#EXTINF:-1,US : Pay-Per-View ( PPV ) Event 5
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/98.ts
-
-#EXTINF:-1,US : PBS Kids HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/421.ts
-
-#EXTINF:-1,US : ShowTime Beyond HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/523.ts
-
-#EXTINF:-1,US : ShowTime East HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/101.ts
-
-#EXTINF:-1,US : ShowTime Extreme HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/521.ts
-
-#EXTINF:-1,US : ShowTime Family Zone HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/520.ts
-
-#EXTINF:-1,US : ShowTime Next HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/519.ts
-
-#EXTINF:-1,US : ShowTime ShowCase HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/522.ts
-
-#EXTINF:-1,US : ShowTime West HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/517.ts
-
-#EXTINF:-1,US : ShowTime Women HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/518.ts
-
-#EXTINF:-1,US : Spectrum News NY1 HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/93.ts
-
-#EXTINF:-1,US : Starz Action HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/469.ts
-
-#EXTINF:-1,US : Starz Cinema HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/477.ts
-
-#EXTINF:-1,US : Starz Comedy HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/476.ts
-
-#EXTINF:-1,US : Starz Edge HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/470.ts
-
-#EXTINF:-1,US : Starz Encore Classic HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/475.ts
-
-#EXTINF:-1,US : Starz Encore Family HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/471.ts
-
-#EXTINF:-1,US : Starz Encore Suspense HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/472.ts
-
-#EXTINF:-1,US : Starz Encore Westerns HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/473.ts
-
-#EXTINF:-1,US : Starz HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/468.ts
-
-#EXTINF:-1,US : Starz In Black HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/474.ts
-
-#EXTINF:-1,US : Sundance HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/412.ts
-
-#EXTINF:-1,US : Tarima HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/73.ts
-
-#EXTINF:-1,US : TBS HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/6.ts
-
-#EXTINF:-1,US : TCM HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/428.ts
-
-#EXTINF:-1,US : Teen Nick HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/418.ts
-
-#EXTINF:-1,US : Telemundo 47 HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/32.ts
-
-#EXTINF:-1,US : Telemundo 51
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/84.ts
-
-#EXTINF:-1,US : Telemundo Atlanta HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/42.ts
-
-#EXTINF:-1,US : Telemundo HD Boston HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/82.ts
-
-#EXTINF:-1,US : Telemundo Orlando HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/43.ts
-
-#EXTINF:-1,US : Telemundo Philadelphia HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/83.ts
-
-#EXTINF:-1,US : Telemundo Rodhe Island HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/44.ts
-
-#EXTINF:-1,US : Telemundo Washington HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/41.ts
-
-#EXTINF:-1,US : The CW HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/430.ts
-
-#EXTINF:-1,US : TLC HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/50.ts
-
-#EXTINF:-1,US : Travel Channel HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/447.ts
-
-#EXTINF:-1,US : Tru TV HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/435.ts
-
-#EXTINF:-1,US : TV LAND HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/451.ts
-
-#EXTINF:-1,US : Unimas HD NY
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/45.ts
-
-#EXTINF:-1,US : Universal Kids HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/415.ts
-
-#EXTINF:-1,US : Univision 23 Miami HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/40.ts
-
-#EXTINF:-1,US : Univision 41 HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/33.ts
-
-#EXTINF:-1,US : USA Network HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/90.ts
-
-#EXTINF:-1,US : VH1 HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/445.ts
-
-#EXTINF:-1,US : WETV HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/409.ts
-
-#EXTINF:-1,US : WRAL-5 TV NBC
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/406.ts
-
-#EXTINF:-1,US : MY 9 WWOR NY
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/402.ts
-
-#EXTINF:-1,US : NBC 10 Rodhe Island (WJAR)
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/89.ts
-
-#EXTINF:-1,US : SyFy Channel HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/432.ts
-
-#EXTINF:-1,US : WFTV Orlando HD
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/408.ts
-
-#EXTINF:-1 ,Barca TV : ES
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/171.ts
-#EXTINF:-1 ,Bein Liga de Campeones HD : ES
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/154.ts
-#EXTINF:-1 ,Bein Sports N HD : US
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/160.ts
-#EXTINF:-1 ,Box Nation HD : US
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/64.ts
-#EXTINF:-1 ,BSC Sports Network : DO
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/187.ts
-#EXTINF:-1 ,Canal 5 Sports HD : MEX
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/197.ts
-#EXTINF:-1 ,CAZA Y PEZCA HD : ES
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/173.ts
-#EXTINF:-1 ,CDN Deportes : DO
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/188.ts
-#EXTINF:-1 ,CDO P Chile : CL
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/164.ts
-#EXTINF:-1 ,Claro Sports 1 HD : LAT
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/185.ts
-#EXTINF:-1 ,Claro Sports 2 HD : LAT
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/186.ts
-#EXTINF:-1 ,Combat UFC HD : BRA
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/200.ts
-#EXTINF:-1 ,DAZN 1 HD : ES
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/142.ts
-#EXTINF:-1 ,DAZN 2 HD : ES
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/143.ts
-#EXTINF:-1 ,DAZN 3 HD : ES
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/144.ts
-#EXTINF:-1 ,DAZN 4 HD : ES
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/145.ts
-#EXTINF:-1 ,Direct TV HD : ECU
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/202.ts
-#EXTINF:-1 ,Directv Sports 1 HD : COL
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/190.ts
-#EXTINF:-1 ,Directv Sports 2 HD : COL
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/191.ts
-#EXTINF:-1 ,Directv Sports Plus HD : COL
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/192.ts
-#EXTINF:-1 ,ECDF HD : ECU
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/175.ts
-#EXTINF:-1 ,ESPN 2 HD : MEX
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/131.ts
-#EXTINF:-1 ,ESPN 3 HD : MEX
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/132.ts
-#EXTINF:-1 ,ESPN BRASIL : BRA
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/140.ts
-#EXTINF:-1 ,ESPN DEPORTES HD : LAT
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/138.ts
-#EXTINF:-1 ,ESPN HD E : LAT
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/133.ts
-#EXTINF:-1 ,ESPN HD VIP : MEX
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/130.ts
-#EXTINF:-1 ,Eurosports 1 HD : ES
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/128.ts
-#EXTINF:-1 ,Eurosports 2 HD : ES
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/129.ts
-#EXTINF:-1 ,F1 Movistar FHD XD : ES
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/199.ts
-#EXTINF:-1 ,F1 Movistar HD : ES
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/198.ts
-#EXTINF:-1 ,Formula 1 Sky HD : UK
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/1.ts
-#EXTINF:-1 ,FOX SPORTS 1 HD MX VIP : LAT
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/176.ts
-#EXTINF:-1 ,Fox Sports 2 Brasil : BRA
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/184.ts
-#EXTINF:-1 ,Fox Sports 2 HD MX VIP : LAT
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/177.ts
-#EXTINF:-1 ,Fox Sports 3 HD MX VIP : LAT
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/178.ts
-#EXTINF:-1 ,Fox Sports HD Brasil : BRA
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/183.ts
-#EXTINF:-1 ,Fox Sports HD Premium  : ARG
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/182.ts
-#EXTINF:-1 ,GOL HD : ES
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/168.ts
-#EXTINF:-1 ,GOL PERU : PE
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/141.ts
-#EXTINF:-1 ,GOL TV HD : ECU
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/174.ts
-#EXTINF:-1 ,Gol TV Latino : LAT
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/169.ts
-#EXTINF:-1 ,Golf Channel NBC HD : US
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/55.ts
-#EXTINF:-1 ,MLB Network HD : US
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/67.ts
-#EXTINF:-1 ,Movistar Deportes HD : PE
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/147.ts
-#EXTINF:-1 ,Movistar Golf HD : ES
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/167.ts
-#EXTINF:-1 ,Movistar La Liga Event 1 HD : ES
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/150.ts
-#EXTINF:-1 ,Movistar La Liga HD : ES
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/149.ts
-#EXTINF:-1 ,Movistar Plus HD : PE
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/148.ts
-#EXTINF:-1 ,NBA Los Angeles Lakers HD : US
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/89.ts
-#EXTINF:-1 ,NFL Network HD : US
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/114.ts
-#EXTINF:-1 ,Olympic Channel HD : US
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/65.ts
-#EXTINF:-1 ,OutDoor Channel HD : US
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/201.ts
-#EXTINF:-1 ,Real Madrid : ES
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/170.ts
-#EXTINF:-1 ,Sky Sports Football HD : UK
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/28.ts
-#EXTINF:-1 ,TeleDeportes HD : ES
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/172.ts
-#EXTINF:-1 ,Tennis Channel HD : US
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/54.ts
-#EXTINF:-1 ,Tigo Sports C.R. : COS
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/165.ts
-#EXTINF:-1 ,Tigo Sports HD : GUA
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/161.ts
-#EXTINF:-1 ,Tigo Sports HD 1 : BOL
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/155.ts
-#EXTINF:-1 ,Tigo Sports HD 2 : BOL
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/156.ts
-#EXTINF:-1 ,TNT Sports HD : ARG
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/194.ts
-#EXTINF:-1 ,TNT SPORTS Premium : CL
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/163.ts
-#EXTINF:-1 ,Toros HD : ES
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/166.ts
-#EXTINF:-1 ,TSN Sports 1 HD : CA
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/2.ts
-#EXTINF:-1 ,TUDN HD : LAT
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/159.ts
-#EXTINF:-1 ,TyC Sports HD : ARG
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/196.ts
-#EXTINF:-1 ,UFC Fight Pass HD : US
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/59.ts
-#EXTINF:-1 ,Wapa 2 Deportes : PR
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/189.ts
-#EXTINF:-1 ,Win Sports HD VIP : COL
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/157.ts
-#EXTINF:-1 ,Win Sports Plus + HD VIP : COL
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/158.ts
-#EXTINF:-1 ,WWE Network HD : US
-#EXTVLCOPT:http-user-agent=AppleWeb537
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/63.ts
-
+#EXTINF:-1 ,#0
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2146
+#EXTINF:-1 ,#VAMOS
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2148
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/991709e1a4f3008ac4bbe507ace497d3.png",ARG: Bloomberg
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285198
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/ee18e7e604f6e4b610f43f141472b9f8.png",ARG: Canal TDC
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285874
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d3f69eaf959038a3e7107518e6c5a6e6.png",ARG: Cinecanal
+http://iptvtree.net:8080/86488e81/5e48c38fdd/38655
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/4094c04397c5d1ead102ff5913c3a950.png",ARG: Cinemax
+http://iptvtree.net:8080/86488e81/5e48c38fdd/38661
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/8e422c39a1c5c4f39a33b1602be978fd.png",ARG: DeporTV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/38664
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/8dbe5b84ef7b00e4579e1b53426e4a13.png",ARG: DirecTV Sports
+http://iptvtree.net:8080/86488e81/5e48c38fdd/67721
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/17cb87788ff5c4d544aa70c39e6d707a.png",ARG: DirecTV Sports 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/31645
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1837897a51d196c78caaecc039a49887.png",ARG: DirecTV Sports+
+http://iptvtree.net:8080/86488e81/5e48c38fdd/65750
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/75d9d9ee40dbce1919a1cdf9f5f98a32.png",ARG: Discovery H&H
+http://iptvtree.net:8080/86488e81/5e48c38fdd/172593
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/1d2a567812c05aa587d88f49ead9e213.png",ARG: Discovery Theater
+http://iptvtree.net:8080/86488e81/5e48c38fdd/172605
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/58f557ffa761091f837f5c289ac13208.png",ARG: ESPN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/61174
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/826ab86530a6d609f3c9e0a5108ae8d1.png",ARG: ESPN 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/70752
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/985c0340dda83edcaa89659e2740eb50.png",ARG: ESPN 3
+http://iptvtree.net:8080/86488e81/5e48c38fdd/61170
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/746819f44951f27e240c8fdaf3ea5384.png",ARG: ESPN 4
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295627
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f066512b6451650645ed53b790f2db72.png",ARG: ESPN Extra
+http://iptvtree.net:8080/86488e81/5e48c38fdd/66298
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/23b7e450ea406743ae73a1b3545ff3b2.png",ARG: Film & Arts
+http://iptvtree.net:8080/86488e81/5e48c38fdd/38678
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b6fb0039905434d2842bc80cc0c4db30.png",ARG: FOX SPORTS
+http://iptvtree.net:8080/86488e81/5e48c38fdd/280370
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/f3e732b27ff9cbfc4c52b5e56c4f66d5.png",ARG: FOX SPORTS 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3187
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/cf9e3efa58e179ce0bc51a1bdb47efe0.png",ARG: FOX SPORTS 3
+http://iptvtree.net:8080/86488e81/5e48c38fdd/10921
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b034ade7d1cec1d63cdb0ceec4673991.png",ARG: FXM
+http://iptvtree.net:8080/86488e81/5e48c38fdd/29302
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7571477b2d1658e99c8b0646b505baec.png",ARG: Garage TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/23915
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7241391c5fd30f0e9f8414bf2b670b49.png",ARG: HBO Xtreme
+http://iptvtree.net:8080/86488e81/5e48c38fdd/172272
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/dcf138395d33c7add72e713d90eeb08d.png",ARG: History
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49293
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/9a3eaf863f6643120072b58ea61cf2e4.png",ARG: Hola TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285202
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f7703cdc820fdff72dcc60f1a560ef84.png",ARG: NAT GEO Kids
+http://iptvtree.net:8080/86488e81/5e48c38fdd/38697
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/75e48322567d65f1f20b24133b57315b.png",ARG: NAT GEO Wild
+http://iptvtree.net:8080/86488e81/5e48c38fdd/38698
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/d1d959c3ae6d2d374c200451b12c3af5.png",ARG: Net TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/267322
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b1eff9b3fa0ab61c323b719676ea3ae8.png",ARG: nickelodeon
+http://iptvtree.net:8080/86488e81/5e48c38fdd/29311
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/e6401d2f80b1258f21dc0aa489f13b98.png",ARG: SYFY
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49316
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/49181ded70802b624b64bf409cd4b76c.png",ARG: TNT
+http://iptvtree.net:8080/86488e81/5e48c38fdd/38720
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/341e2bd93b5fa0d6897a9f0f538f2c1d.png",ARG: TNT Series
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3109
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/13a910df1bb09f161ea63531ac637fce.png",ARG: TNT Sports
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3204
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7b8105d8ff6faab8fe9ba38744cfc995.png",ARG: Todo Noticias
+http://iptvtree.net:8080/86488e81/5e48c38fdd/146052
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/2b418149074fe7404e47676d256c4f49.png",ARG: TV Publica
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8752
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ARG: TVU Universidad Nacional de La Plata
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285907
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/a845a6541822a8cad70a73b6c708610a.png",ARG: TyC Sports
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8749
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/84759c64da660ef9ac51ec981b19c1b9.png",ARG: Universal TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/38719
+#EXTINF:-1 group-title="Chile" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/18424733140328984f63beab78c02beb.png",CL: CDO Premium
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8963
+#EXTINF:-1 group-title="Chile" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d5ac932c3f584963c92b53663e11c6a1.png",CL: Cinecanal
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3008
+#EXTINF:-1 group-title="Chile" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7ef8939c6ae682d9ed89bfe7d59262c1.png",CL: CNN Chile
+http://iptvtree.net:8080/86488e81/5e48c38fdd/76353
+#EXTINF:-1 group-title="Chile" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/d2a2bcbcd229fa57c4799e7fe355e3fb.png",CL: DirecTV Sports
+http://iptvtree.net:8080/86488e81/5e48c38fdd/290379
+#EXTINF:-1 group-title="Chile" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/387bbd52f2041de09c95940881d6e66b.png",CL: DirecTV Sports 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/290380
+#EXTINF:-1 group-title="Chile" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/8b504cd4f5d0a0855aa7061d639a3c95.svg",CL: ESPN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295637
+#EXTINF:-1 group-title="Chile" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a35839fb13028801825bc2a1c8517aa4.png",CL: FOX SPORTS 1
+http://iptvtree.net:8080/86488e81/5e48c38fdd/169069
+#EXTINF:-1 group-title="Chile" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/54338abc10ae0b982683de1d4ace6394.jfif",CL: FOX SPORTS 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/38466
+#EXTINF:-1 group-title="Chile" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/7cefa3ff0654ffe948d878fea08985d2.jfif",CL: Portalfoxmix
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286268
+#EXTINF:-1 group-title="Chile" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/8c7ac0f4e4f0c1b2b6df9a1dca6de518.jfif",CL: Radio Ritmo
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286272
+#EXTINF:-1 group-title="Chile" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6e1ad1c2f8239188c6cf5b97f46db437.png",CL: Retro Plus
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286286
+#EXTINF:-1 group-title="Chile" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/89eb3c7a1c42ac6e7bc30ff1ef7a304e.jfif",CL: Retro Plus 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286284
+#EXTINF:-1 group-title="Chile" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/573abbab6de8aa9edb90a60681c9738f.jfif",CL: Retro Plus 3
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286285
+#EXTINF:-1 group-title="Chile" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/61d6bab0c7f59c599e3eca6d8ad59423.jfif",CL: Ruidos FM
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286276
+#EXTINF:-1 group-title="Chile" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/8a18dba7498e5f611eefba632b2b4faf.png",CL: Teletrak
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8965
+#EXTINF:-1 group-title="Chile" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/37f589f5017ad3e362c659dd276a2cae.png",CL: TNT Sports
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8959
+#EXTINF:-1 group-title="Chile" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/41cfb33524d540bc9b8b46dd820e110a.png",CL: TNT Sports 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/279612
+#EXTINF:-1 group-title="Chile" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/d89e1212c2e1ba4fdb66f9e6a609d4eb.png",CL: TNT Sports 3
+http://iptvtree.net:8080/86488e81/5e48c38fdd/266775
+#EXTINF:-1 group-title="Chile" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/65dd8da2157809c7e6349ed8c4b9d9aa.png",CL: TV Chile
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8978
+#EXTINF:-1 group-title="Chile" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/712a73a3037cfc476980422996920b61.jfif",CL: VTV Valle de Aconcagua
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286283
+#EXTINF:-1 group-title="Chile" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/4b811f7365a944276f1af85c68cc81df.png",CL: Zona Latina
+http://iptvtree.net:8080/86488e81/5e48c38fdd/148631
+#EXTINF:-1 group-title="Colombia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/22a1f97a98a4d7e966fd56ec0de23d1b.png",CO: ATN TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295640
+#EXTINF:-1 group-title="Colombia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/f60462766a10bdca93bc891d96ed5071.png",CO: AXN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/46554
+#EXTINF:-1 group-title="Colombia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",CO: Cantinazo
+http://iptvtree.net:8080/86488e81/5e48c38fdd/31644
+#EXTINF:-1 group-title="Colombia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/7c3d46bbe5eb928c1e049fd465be7722.png",CO: Cinecanal
+http://iptvtree.net:8080/86488e81/5e48c38fdd/290335
+#EXTINF:-1 group-title="Colombia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/cc44b2e5677e25e39096b6532871ba10.png",CO: Cosmopolitan TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/290469
+#EXTINF:-1 group-title="Colombia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/f748b7afe14a0dba0045d397ca3edb92.png",CO: ESPN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295642
+#EXTINF:-1 group-title="Colombia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/7358924b8b0bc7a1eb6117baa4f15fba.png",CO: ESPN 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/273212
+#EXTINF:-1 group-title="Colombia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/2bb98255d36a1a7c9cda8b2aa2e3c335.png",CO: ESPN 3
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295641
+#EXTINF:-1 group-title="Colombia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/e55bf268ad59b9cd3155db41006389f9.jfif",CO: FOX SPORTS 1
+http://iptvtree.net:8080/86488e81/5e48c38fdd/65949
+#EXTINF:-1 group-title="Colombia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/5ed5b531a588f1468f05a3cd31c42bd7.jfif",CO: FOX SPORTS 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/198470
+#EXTINF:-1 group-title="Colombia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/195a176565432eaf4ce4fe054c9442cd.png",CO: FX
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295243
+#EXTINF:-1 group-title="Colombia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/a483d26c1dbc2d27101601d5277d8cc3.png",CO: La Red
+http://iptvtree.net:8080/86488e81/5e48c38fdd/196445
+#EXTINF:-1 group-title="Colombia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/1dd2bbce855751226fcf9a472face912.jfif",CO: UNO PLAY
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286317
+#EXTINF:-1 group-title="Colombia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c1c7c1a346bcdfcd6f85ace03bac1b6f.png",CO: Win Sports
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8345
+#EXTINF:-1 group-title="Colombia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/1438a5a2a8917a271b8f5736c9783d1d.png",CO: Win Sports+
+http://iptvtree.net:8080/86488e81/5e48c38fdd/294455
+#EXTINF:-1 group-title="Dominican Republic" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/acf74f7f87d0b48824f8750ba4935aa7.jfif",DO: Hits 360 TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286380
+#EXTINF:-1 group-title="Dominican Republic" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bd0918990b31c04eab7d8b038fb0241e.png",DO: Radio 105
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286391
+#EXTINF:-1 group-title="Dominican Republic" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/a897900e07e1038042d89a9eb4da9ad2.png",DO: TV Éxitos
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286402
+#EXTINF:-1 group-title="Ecuador" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/089d3c030026876ce63099c5164b7359.png",EC: Gol TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9163
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2ee103ec1d0a814e0e0b31cd2b03b35d.png",ES: A&E
+http://iptvtree.net:8080/86488e81/5e48c38fdd/7731
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b2b830d75a0869caf54c795029de436f.png",ES: A3 Cine
+http://iptvtree.net:8080/86488e81/5e48c38fdd/283299
+#EXTINF:-1 group-title="Spain ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/e5d2c412b61b8b5ad65ff3770985a281.png",ES: Activa TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285727
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3e8da71a24605361a34cc39144648101.png",ES: AMC
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1174
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7d6d9bf832a0b925f5ec4de7d91dcd96.png",ES: Antena 3
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1173
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e3240330cb88d6a9880ac11d9d09ec8c.png",ES: Atreseries
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9102
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4b866d9fef524fa206acd7951f852b25.png",ES: AXN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1172
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/00b652e792492b5283d751cd0f17d618.png",ES: AXN White
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1171
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/04835cfc0f331cb7e0aa7154b988d08f.png",ES: Barca TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1170
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4d62b5fba837f0f26a56cf9bf7eaeaf4.png",ES: Be Mad
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2213
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d128dd4114a7cd1fa14197724b943e58.png",ES: beteve
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285834
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/59e6d62163d4e8a9a21e6f3cf1152a30.png",ES: Blaze
+http://iptvtree.net:8080/86488e81/5e48c38fdd/5303
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/376757098c4f911e9242316d025d3756.png",ES: Bloomberg TV EMEA Live Event
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285720
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/f1b59bb4c905f7d7a6ac45525311004f.png",ES: Bloomberg TV Europe
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285843
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/6a0a43d563ee54936c256ed5a6fa3c09.png",ES: Bom Cine
+http://iptvtree.net:8080/86488e81/5e48c38fdd/75926
+#EXTINF:-1 group-title="Spain ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/2c08bfbc671ffc3adbe34a7922603d85.png",ES: Cadena Elite
+http://iptvtree.net:8080/86488e81/5e48c38fdd/200665
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eb37e4ab523860367af90cc91ccd0cc3.png",ES: Calle 13
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1168
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c73c2ebbf54973444442514e503aee41.png",ES: Canal Hollywood
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1154
+#EXTINF:-1 group-title="Spain ➾ Nature" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/0cd58568602064743ff6004964aaece8.png",ES: Canal Odisea
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2194
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f6f8c4144320c781876e84ec0a4e4c1e.png",ES: Caza y Pesca
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1165
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ed51eda47ce082e6ab48b65848b7bc2c.png",ES: CNN en Espanol
+http://iptvtree.net:8080/86488e81/5e48c38fdd/31762
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/54105373185aef75593582f1f169e83a.png",ES: Cosmopolitan TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2215
+#EXTINF:-1 group-title="Spain ➾
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5f60257e029877f2a28a803b818e3787.png",ES: Dark
+http://iptvtree.net:8080/86488e81/5e48c38fdd/121514
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/484784419a9faf9cbeac602c51174f16.png",ES: DAZN 1
+http://iptvtree.net:8080/86488e81/5e48c38fdd/64711
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b025261b7fc8b187dddf757424b01db.png",ES: DAZN 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/64712
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d36d4196d1e853c52f5a606b640d9b1.png",ES: DAZN 3
+http://iptvtree.net:8080/86488e81/5e48c38fdd/269912
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b834941508cb1ab7d5787042c10bc7b.png",ES: DAZN 4
+http://iptvtree.net:8080/86488e81/5e48c38fdd/269911
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fdf414dd4d51defa5e59c52c95abb2c5.png",ES: DAZN F1
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1672
+#EXTINF:-1 group-title="Spain ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a5b8aa33e79a329ab8f7b4c6a6f299cc.png",ES: Discovery World
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1162
+#EXTINF:-1 group-title="Spain ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1e2090e42349272d08620af54d65981a.png",ES: Disney Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1145
+#EXTINF:-1 group-title="Spain ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/672158c1d2769e8fd607c8d7faeff387.png",ES: Distrito TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/201938
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5f5ece61f319b103a0247b8c3ae55313.png",ES: Divinity
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2795
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3fc73f3c664e7a9f6d4cb5e55d8b1478.png",ES: DMAX
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2762
+#EXTINF:-1 group-title="Spain ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/d564b8954fcbbaf57132329cde5e2222.png",ES: DreamWorks TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/281787
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/8001eedd35de43149a920591e6cb2080.png",ES: EL Pinguino TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/53887
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/1929c2172bf7dc3ee064eab8a7f74331.png",ES: El Toro TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/201928
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9e115dbf65e6d57e284718788f7f6338.png",ES: ESPN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/90708
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ec52431ae56bf89fe9aec30084bd613f.png",ES: ESPN 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/281480
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/5c432b98e228de745d3de84f5526e459.png",ES: ESPN 3
+http://iptvtree.net:8080/86488e81/5e48c38fdd/281403
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/e79116fd84fbb5bb76c050ae09684729.png",ES: ESPN Deportes
+http://iptvtree.net:8080/86488e81/5e48c38fdd/281417
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f776a81abf0db9643bdbc1d785285578.jpg",ES: Esport 3
+http://iptvtree.net:8080/86488e81/5e48c38fdd/7445
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/822ce6f0945493fe8c121d8e98e31a7a.png",ES: euronews en Espanol
+http://iptvtree.net:8080/86488e81/5e48c38fdd/282292
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png",ES: EUROSPORT 1
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1160
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b27f3e7b8c3029acde8ce80899fef30f.png",ES: EUROSPORT 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1159
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5b41469eee212c964b5360414d4c2dbf.png",ES: Factoria de Ficcion
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2207
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e327489a02855d7d55521d92c8874877.png",ES: FOX
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1158
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/cfccdca6f2eced38d196f713dccf7f2d.png",ES: Fox Life
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295164
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/99879c9e81db62ac9c15709cb2ce0bd4.png",ES: FOX SPORTS 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/89723
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a91f57154339bcdd6ae38a27f1e20a48.png",ES: FOX SPORTS 3
+http://iptvtree.net:8080/86488e81/5e48c38fdd/89722
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7ea130cc3a9970f58dc065142be9ff96.png",ES: France 24
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9148
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/7ae2b23972da8518c6ac18a192581947.png",ES: Gol
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1156
+#EXTINF:-1 group-title="Spain ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/342b26427208b2b782a0855d4570fe03.png",ES: History
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1155
+#EXTINF:-1 group-title="Spain ➾ Nature" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2581392edd071e491dd76535b6c588d4.png",ES: Iberalia TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2793
+#EXTINF:-1 group-title="Spain ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/eb2c075b206e452cd2726da805356cf5.png",ES: Ibiza Global TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285763
+#EXTINF:-1 group-title="Spain ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a803d238410485830062214859e54978.png",ES: Investigation Discovery
+http://iptvtree.net:8080/86488e81/5e48c38fdd/27790
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/faa723dac3eece2c865473edd83d65c9.png",ES: LaLiga TV Bar
+http://iptvtree.net:8080/86488e81/5e48c38fdd/197711
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/057b4e7cbec3812a2dfeaa2dcacd5366.png",ES: MavTV Europe
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285845
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e27155f9dc6758a2bc2fb2b510b5006a.png",ES: Mega
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2190
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9469cfef933b9572c60924f446ae6104.png",ES: Molahits TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/281793
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a3f49074be2fa2a463d5ee69a1bd9407.png",ES: MOVISTAR Accion
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1148
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/af80011ddf4907c81029f3e2763899e4.png",ES: MOVISTAR Cine Espanol
+http://iptvtree.net:8080/86488e81/5e48c38fdd/64788
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/6706f3336be6e8d27241cade06bedf5b.png",ES: MOVISTAR Clasicos
+http://iptvtree.net:8080/86488e81/5e48c38fdd/281773
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d016c40c3fd7ebe0a22e96e1a9fb3825.png",ES: MOVISTAR Comedia
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1146
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cfb9e3a05ca4b0452cbcd5bece3485f0.png",ES: MOVISTAR Deportes
+http://iptvtree.net:8080/86488e81/5e48c38fdd/227121
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/94066c6ba9258ffcca2b523d4bb15503.png",ES: MOVISTAR Deportes 5
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285690
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/e75a0e864a8daae27d3c86a3af556102.png",ES: MOVISTAR Deportes 6
+http://iptvtree.net:8080/86488e81/5e48c38fdd/198066
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cf0b506006f12487ce7053315e6ea049.png",ES: MOVISTAR Drama
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1144
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/50a1f5aeede4140f8b19d307c64024af.png",ES: MOVISTAR Estrenos
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1143
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/edea034a4bb268a8f68c40f9584371ac.png",ES: MOVISTAR Estrenos 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295135
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/f782b985534dade52b7ed5e6e0e158d6.jpg",ES: MOVISTAR Fest
+http://iptvtree.net:8080/86488e81/5e48c38fdd/168992
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bce4e1371881d88c660da7804e154dd6.png",ES: MOVISTAR Golf
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1142
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ES: MOVISTAR La Resistencia
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286800
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/83c20e93f805d1c0de43abcaf10f42de.png",ES: MOVISTAR LaLiga
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1141
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/2f992ea3f06a9d0385df6e3e39e2c00b.png",ES: MOVISTAR LaLiga 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/5311
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/22ba20bcd4a9505d1ad7435f1dceaa93.png",ES: MOVISTAR LaLiga 3
+http://iptvtree.net:8080/86488e81/5e48c38fdd/281772
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/158d3d24cbf3ba9dc16e939750ab0ad9.png",ES: MOVISTAR LaLiga 4
+http://iptvtree.net:8080/86488e81/5e48c38fdd/269466
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/8547f7041c05f04ce7aad56c67b64481.png",ES: MOVISTAR LaLiga 5
+http://iptvtree.net:8080/86488e81/5e48c38fdd/281792
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/8238b21293a7bbf62edd584e34295155.png",ES: MOVISTAR LaLiga 7
+http://iptvtree.net:8080/86488e81/5e48c38fdd/194527
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/5036310ec02783b6ca5bea8aa0de47cc.png",ES: MOVISTAR LaLiga 8
+http://iptvtree.net:8080/86488e81/5e48c38fdd/269463
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/98c3b45e9801cd9fe5e72bc8d42b859d.png",ES: MOVISTAR LIGA DE CAMPEONES
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2800
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e18469bf107fe1dec514244c50b2c2ed.png",ES: MOVISTAR Series
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1140
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/232233041bb3162468c17ee19edd0ecc.png",ES: MOVISTAR Series 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1139
+#EXTINF:-1 group-title="Spain ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/ab5da439d14bf891a27395f4592a1da5.png",ES: MTV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/29307
+#EXTINF:-1 group-title="Spain ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/29c1e128ba3a6e05e3fd3e529e63f435.png",ES: MTV Espana
+http://iptvtree.net:8080/86488e81/5e48c38fdd/5308
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/308b6b52210eb1295948261672554da2.png",ES: Multideporte
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8110
+#EXTINF:-1 group-title="Spain ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png",ES: NAT GEO
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1138
+#EXTINF:-1 group-title="Spain ➾ Nature" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e3b9d45a12bb5904d2de532e80d45214.png",ES: NAT GEO Wild
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1137
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5b3a6fb4467acc43181b4e9edaa4c577.png",ES: Nova
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2189
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/7722046ea70b0b4b8c4fdefd5bfba703.png",ES: Portal Foxmix
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295008
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/54a11d651a6e9a0e3f235874f7e09626.png",ES: Rakuten 1
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285802
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ES: Rakuten 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285803
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f5cebb68654337bd446888464af3ed5b.jpg",ES: Rakuten 3
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285804
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ES: Rakuten 6
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285805
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ES: Rakuten Family
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285801
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/854d5bca5c7796bd6f64a874a5d3ae17.png",ES: Real Madrid TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1136
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/d0e480ee3a1003ca35a0b12936c604c8.png",ES: RT en Español
+http://iptvtree.net:8080/86488e81/5e48c38fdd/166663
+#EXTINF:-1 group-title="Spain ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/19fa9d93e325e52d950b696a7b05b314.png",ES: RTV Vida
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285797
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/8b5f2898f61c18a40b8e00c9001b07ac.png",ES: Sofy TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285809
+#EXTINF:-1 group-title="Spain ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/51acf582039c8597fe72c5906943a67e.png",ES: Sol Musica
+http://iptvtree.net:8080/86488e81/5e48c38fdd/168991
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/747286dfc3b254abd7fbaa3853ebc797.png",ES: Solidaria TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285810
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/97622498c703a53c3a8fb1e01a65a46e.png",ES: Sundance TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2757
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0d9c92679582d6c231ae5682d674104f.png",ES: SYFY
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1135
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/422a7522a6687373048ce8c0f84615bf.png",ES: TCM
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1134
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/67b4e401c171416a673fb3c72d074701.png",ES: Teledeporte
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2774
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c64a02fc01a7b20056e5829979cf5503.png",ES: TNT
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2187
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/770c6e3c788d7955345deea0ce712e55.png",ES: Toros TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1132
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f1ae50725dffdd143c3a3100e34399ba.png",ES: TVE Internacional Europa
+http://iptvtree.net:8080/86488e81/5e48c38fdd/5943
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e5906bbed37a53f28eee2ecf0a04a7d3.png",ES: TVE La 1 Madrid
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1151
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/81d15e5ac2ba45feeedb488788d8dc7c.svg",ES: Ubeat
+http://iptvtree.net:8080/86488e81/5e48c38fdd/147368
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/9f0db7298ca7f2ea0900ffe65daadb68.png",ES: XTRM
+http://iptvtree.net:8080/86488e81/5e48c38fdd/11148
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/8b945f8ab108e972cca1615cd8b61329.jpg",LA: A Estrenar
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295645
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/35930f7c0284e5ec49d271911405a5da.png",LA: A&E
+http://iptvtree.net:8080/86488e81/5e48c38fdd/5759
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ad58529eb9a545d2b1fd0893d7eaf417.png",LA: AMC
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2996
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fb90e5e84997d9ec15153c5670024ac5.png",LA: ANIMAL PLANET
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2997
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d70c71401b7d4da7d10e56ce4cdb85dd.png",LA: AXN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2998
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7094f593037f91cf19b48829152f7412.png",LA: Bloomberg TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/71867
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/0da408e1ce31beda60e5ae859b8f8ac5.jpg",LA: Cinema Dinamita
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3010
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/46853ba04466458e995a775b65b5a1b1.png",LA: Cinemax
+http://iptvtree.net:8080/86488e81/5e48c38fdd/5770
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3bfb9a1b6690135b0a81639e7d1bbdc7.png",LA: Comedy Central
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3015
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/188475ffb4a2ba53742721797c9b5b09.png",LA: Concert Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8701
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/91f40211e35ccd84407b02e43618e4d6.jpg",LA: Contacts TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295650
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b90c9be7c62f1c98d310fd21ad627936.png",LA: Discovery H&H
+http://iptvtree.net:8080/86488e81/5e48c38fdd/5774
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5d8a6d0bd0c1237d56625cb92cdde342.png",LA: Discovery Kids
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3020
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cac3f9679cec1213b995216d207a4c44.png",LA: Discovery Science
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3021
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4cf41989812d63a1b5bc1e488ad447e.png",LA: Discovery Theater
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3022
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fb8e49ac28ac142eb2f1585fdb3f701e.png",LA: Discovery Turbo
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3023
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/10b90e0ce95b100cf9a6fbff0208bf4a.png",LA: Discovery World
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8894
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/318758f8d26d3b300080e8ff794e1a45.png",LA: E!
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3029
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cc414b3ef4f65c8c4e1bacf8fb9e0278.png",LA: ESPN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/5779
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/539a05a3d37b2362763c4779fd461efc.png",LA: ESPN Deportes
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6446
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/270f9ff3c9fc5bf2f744cce629f678c4.png",LA: Estrella TV East
+http://iptvtree.net:8080/86488e81/5e48c38fdd/172607
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b2da659c16bc64a81f7fde756fc5850b.png",LA: FOX SPORTS
+http://iptvtree.net:8080/86488e81/5e48c38fdd/40839
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/380799e8f8cd7549abef0a92601254bb.png",LA: FOX SPORTS 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/40840
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10e3a77e5bf512f0b2235de814a343e2.png",LA: FX
+http://iptvtree.net:8080/86488e81/5e48c38fdd/34561
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a7abccfac5e61cd02194cb5171ee1c8a.png",LA: Galavision
+http://iptvtree.net:8080/86488e81/5e48c38fdd/71860
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/24771832e613cad63322d45334cd4699.png",LA: Glitz
+http://iptvtree.net:8080/86488e81/5e48c38fdd/45626
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/04924eab6449cf5f9481477a02538529.png",LA: HBO 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3056
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bcb5ce199d5817bc957ff6dc510577d2.png",LA: HBO Family
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3057
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/da07317e9ea0404617a799765f151c31.png",LA: HBO Mundi
+http://iptvtree.net:8080/86488e81/5e48c38fdd/226015
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/565affd407eda3b8d7f7055d62a8461f.png",LA: HBO Signature
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3059
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/ac32c2f03f910fd6359c90e0436cebef.png",LA: HBO Xtreme
+http://iptvtree.net:8080/86488e81/5e48c38fdd/148927
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/bd0d2390d955c4eee87b444264ea2ca0.png",LA: Hispan TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/187027
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/68f41e0e8b015d7d74e0d0f1e3180427.png",LA: History
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3060
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8f312a5eaab500124303d9376e9144d7.png",LA: History 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/40831
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e189b22966d3c1667dd3d70eab12bb26.png",LA: HTV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3062
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fa736a0d75e817b038e3df45c3c46e81.png",LA: Investigation Discovery
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3063
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/f539dbbbd67e1cb609c5560a78338883.jpeg",LA: levelUp
+http://iptvtree.net:8080/86488e81/5e48c38fdd/294677
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f77e98038afdc8aabd10e1d675f4eb07.png",LA: Mas Chic
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3067
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/866128d2267a0dd3a1914adcb8270e99.jpg",LA: Mega
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295841
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/04e8a37535a0c55f5ca45ab0a15854a7.png",LA: NAT GEO
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3073
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b8d2a6a7d0c3588f50ccc190b3f6a40d.png",LA: NBC Universo
+http://iptvtree.net:8080/86488e81/5e48c38fdd/90120
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b52b3dd7436f99747482bce29accec55.png",LA: Paramount Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3077
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d968760dc7fc9a895c6f2b356bf649a9.png",LA: Space
+http://iptvtree.net:8080/86488e81/5e48c38fdd/34566
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eb8d1f010d2ba2c6bfb2578fcd38145f.png",LA: Studio Universal
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3083
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/740db7e14703c87381e639d31fdb13ca.png",LA: Tastemade
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295852
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f74e57eff971eb2eaaa6d01ad24a9dcf.png",LA: TBS
+http://iptvtree.net:8080/86488e81/5e48c38fdd/5803
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/00a262435a780f4b14d76f76d8a2ecac.png",LA: TCM
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3085
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d8f3f8fab7a148070f445082d74be654.png",LA: TeenNick
+http://iptvtree.net:8080/86488e81/5e48c38fdd/5796
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/ab8aca39ca1f115454c29b734e8281be.png",LA: Telemundo Fort Myers Florida WWDT CD
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295847
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/9f3521fdd170eae38a97c6925b45fbc4.png",LA: Telemundo Internacional
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49318
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ad1da9c0ba3fcacfb946aacf931344e3.png",LA: TLC
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3107
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e1c784499290e4dbff27fcead96e314d.png",LA: TNT
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3089
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/f271d835769593137772c34a9853f739.png",LA: TNT Series
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285147
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/1f392bb0f495628af2609a2def01a745.png",LA: TNT Sports
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285164
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/38b1672943094043c0753f80d1e87b25.png",LA: Tooncast
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3091
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/71e1db48bca40a49540888ded096b9f0.png",LA: tru TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/284515
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/90cb12b962fc5119394feda301c7ba06.png",LA: Ultra Kids
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295817
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/82efa03f500c5297dec84b49876c9248.png",LA: UniMas
+http://iptvtree.net:8080/86488e81/5e48c38fdd/147654
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/223c1b025c7698f85da278dd06b7d4ec.png",LA: UniMas New York
+http://iptvtree.net:8080/86488e81/5e48c38fdd/172679
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/6baa63b2a504eb00db7c0752bbce4272.png",LA: Universal TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3036
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/abed5b68de9560a1f7a5f0598beb592a.png",LA: Univision Cleveland Ohio WQHS DT
+http://iptvtree.net:8080/86488e81/5e48c38fdd/172647
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/88d69186e84dc4ddcdbce801fb124653.png",LA: Univision Dallas Texas KUVN TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/172641
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/db82b1ee37f49e8fbfcb28326657f8e9.png",LA: Univision Los Angeles California KMEX TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/172659
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/a68d82d84821f9cc5918c5b5860c4db4.png",LA: Univision Miami Florida WLTV TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/172655
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/59c3e3a80a3fc8f374424467522ab99e.png",LA: Univision North Carolina WUVC DT
+http://iptvtree.net:8080/86488e81/5e48c38fdd/172652
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/25e49e001349cf074bd0a3206f0a2605.png",LA: Univision Tlnovelas
+http://iptvtree.net:8080/86488e81/5e48c38fdd/196608
+#EXTINF:-1 group-title="Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0ae6c8e6f33c73c453f6fbcbd6addfe4.png",LA: Warner TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/60006
+#EXTINF:-1 group-title="Mexico ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8916a14d4e2a1c7a5f093901bf95d258.png",MX: ADN 40
+http://iptvtree.net:8080/86488e81/5e48c38fdd/5799
+#EXTINF:-1 group-title="Mexico ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/4f748645727fa437970fe429a24bda07.png",MX: Adrenalina Sports Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/290478
+#EXTINF:-1 group-title="Mexico ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/db7232f349d96b8ed9fae2fcacaaa50e.png",MX: AMC
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9083
+#EXTINF:-1 group-title="Mexico ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/a963b3d472ac871390c313a1e1c34871.png",MX: Antena 3 Internacional
+http://iptvtree.net:8080/86488e81/5e48c38fdd/280394
+#EXTINF:-1 group-title="Mexico ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2cca840e4f54f73b09a45657f2595507.png",MX: AXN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9138
+#EXTINF:-1 group-title="Mexico ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9d78d62bec125d99fbd830f62262447f.png",MX: AyM Sports
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9074
+#EXTINF:-1 group-title="Mexico ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dae89e688e6ba755b1e478acffb54190.png",MX: Az Cinema
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9108
+#EXTINF:-1 group-title="Mexico ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/3b72f6a605d555147d432cb35ebbf80a.png",MX: Az Clic
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9035
+#EXTINF:-1 group-title="Mexico ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d0d9608fb753badbadd6a8dbc1496e8.png",MX: Az Corazon
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2999
+#EXTINF:-1 group-title="Mexico ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7aedf232d53962c482c765dcf6ab1d95.png",MX: Az Mundo
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3000
+#EXTINF:-1 group-title="Mexico ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/72ffa19b20708ee5d84c6f01c202ba9a.png",MX: AZTECA 7
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9026
+#EXTINF:-1 group-title="Mexico ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/40ffc9b6f229e4f18593b68daeb65d87.png",MX: AZTECA Uno
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9025
+#EXTINF:-1 group-title="Mexico ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5b1638d003ea8a742796ed86a2c29c77.png",MX: Bandamax
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9122
+#EXTINF:-1 group-title="Mexico ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c4b6f75ada13bb2f7f6d7003acdd019.png",MX: Bloomberg TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9091
+#EXTINF:-1 group-title="Mexico ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/acaaac076bc2325488fbdbe92a2b7b9a.png",MX: Canal 10 Cancun
+http://iptvtree.net:8080/86488e81/5e48c38fdd/147894
+#EXTINF:-1 group-title="Mexico ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/77a6c741aaea77417a1d6cbc5fcd18c2.png",MX: Canal 5
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9024
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/6ed38ab728c2dde98bbf5cfd70d923b5.png",MX: Capital 21
+http://iptvtree.net:8080/86488e81/5e48c38fdd/287632
+
+#EXTINF:-1 group-title="Mexico ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/3c3bec641194b6d636508a46f57676bd.png",MX: Cinecanal
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9128
+#EXTINF:-1 group-title="Mexico ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e1dfd6f5ef14ff570838c7117824342c.png",MX: Claro Cinema
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8706
+#EXTINF:-1 group-title="Mexico ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9f09982c9fc7f833cb4f14c6f1e0e8f4.png",MX: Comedy Central
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9106
+#EXTINF:-1 group-title="Mexico ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/0c7cbb69876963d368d6d8249aef2409.png",MX: De Pelicula
+http://iptvtree.net:8080/86488e81/5e48c38fdd/31740
+#EXTINF:-1 group-title="Mexico ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e1131d9d1ec94f7e88e34842801790d5.png",MX: Discovery H&H
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9110
+#EXTINF:-1 group-title="Mexico ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/14efc3962a7c656763a5cd0185333238.png",MX: Discovery Kids
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9060
+#EXTINF:-1 group-title="Mexico ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7d2ab682780c26660017668636579c6f.png",MX: Discovery Theater
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9151
+#EXTINF:-1 group-title="Mexico ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4b4d1da27cf0705e9a72d4f7d392d3e.png",MX: Discovery TLC
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9062
+#EXTINF:-1 group-title="Mexico ➾ Motor Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/37847bf1f1780679d6b96f9fac8a4d17.png",MX: Discovery Turbo
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9058
+#EXTINF:-1 group-title="Mexico ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b9aa3947397c52a219b1e6ef24a653ef.png",MX: Discovery World
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9061
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9571a3fe48be02335097c60e890617a4.png",MX: Distrito Comedia
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9126
+#EXTINF:-1 group-title="Mexico ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/b36abca5f5ebaae7f44a8eaeca72c0ee.png",MX: E!
+http://iptvtree.net:8080/86488e81/5e48c38fdd/31760
+#EXTINF:-1 group-title="Mexico ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fef20f5cb1951c51371fc68e1eb0a32c.png",MX: ESPN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9070
+#EXTINF:-1 group-title="Mexico ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d5d65be98111905704b0ebcd7d06e3bd.png",MX: ESPN 3
+http://iptvtree.net:8080/86488e81/5e48c38fdd/38603
+#EXTINF:-1 group-title="Mexico ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/669589f86e5d9edc472f75011f9c1055.png",MX: ESPN Dos
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9068
+#EXTINF:-1 group-title="Mexico ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c47d68dc2974632c15a07f4a6714854d.png",MX: ESPN Extra
+http://iptvtree.net:8080/86488e81/5e48c38fdd/38607
+#EXTINF:-1 group-title="Mexico ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7d8a7af6396e12a8262d492c16939a5b.png",MX: Europa Europa
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9130
+#EXTINF:-1 group-title="Mexico ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/e0c9135ce1ddc8e44f908cab23545722.png",MX: Film & Arts
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9089
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/e9418c38f57580606fda9fa0028a3531.png",MX: Foro TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/5782
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c57450114a42c0d62ab0e938d40cf0b2.jpg",MX: FOX SPORTS
+http://iptvtree.net:8080/86488e81/5e48c38fdd/10925
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/4860d5094856c80be9a0e80d4e3ea61b.jpg",MX: FOX SPORTS 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3043
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/1a4f7efe2244027b516ad0c5bb0319a0.png",MX: FOX SPORTS 3
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3044
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/de3051d403186b770791395b44c9bd74.png",MX: FX
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9105
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8ae7fc579a89a3e135c34e8d968fdf59.png",MX: Glitz
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9125
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/9d4e2a9fe5bfba70bdbfdaec4166df16.png",MX: Golden
+http://iptvtree.net:8080/86488e81/5e48c38fdd/5793
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/31627ce18ed4c1315831d876d8fb84d7.png",MX: Golden Edge
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9076
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a08cc6163e53b2569acec7eb03e05271.png",MX: Golden Plus
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3051
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3259e1f443c20457eaa5e0c34852d23c.png",MX: Golden Premier
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3052
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/0f3ec53e3a88942f81f84686e3f90ef8.png",MX: Golf Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49383
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/7510a9b10984936053e620479b391ff5.png",MX: HGTV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/187048
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/8044fffe110f6d73bd82305a5f8f5ff1.png",MX: Hola TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9031
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7341c1c672a0aad7fea945234ac22533.png",MX: I Sat
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9121
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9ee680172973be02359002c5b3a44ec3.png",MX: Imagen TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9039
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/be65fcb335b137f9bbcf867472dafea9.png",MX: Las Estrellas México
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3005
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6a873a99ddc126b9074d6c7757d9b6fe.png",MX: Milenio TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/7067
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ec252b9c1be69a68011aa7653391d25c.png",MX: NAT GEO
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8725
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ffe70df63cfe2611a5b1b5fa96984394.png",MX: nickelodeon
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9085
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f0b6049bc99ad5e7ad70ccff63b81e79.png",MX: NickMusic
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9084
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/8b5f372f4983c376dc954818cf6889fe.png",MX: Nueve
+http://iptvtree.net:8080/86488e81/5e48c38fdd/167165
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/eeaaa6758c4241bf0bb03fe401e17cb2.png",MX: Once Mexico
+http://iptvtree.net:8080/86488e81/5e48c38fdd/7051
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8fd6d2dff8d7a18160e0b6823dec6e54.jpg",MX: Paramount Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9146
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/681d83765d2daf11d1138045141f9d5a.png",MX: Sony Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9115
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/549b218ccc0286cc02c95fb60ec9b9c6.jpg",MX: Space
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9136
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c535ec7844849371e43f872e6337a472.png",MX: Studio Universal
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9071
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fcefd652cedee1c107acd5ff08569ebc.png",MX: SYFY
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9081
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e165b01f05e7125d5db3eb5f067d8d9c.png",MX: TBS
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9124
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1b950d84f4cca742c18c7b61128e44d7.png",MX: TCM
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9131
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1fa4662bdb978937bc2613f72051a35f.png",MX: TeenNick
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9040
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/780c261784ae89d7b34e72c907ff1c80.png",MX: TeleFormula
+http://iptvtree.net:8080/86488e81/5e48c38fdd/31746
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ddd07a323bd82e3c8ce03f30dba9c97f.png",MX: Telehit Musica
+http://iptvtree.net:8080/86488e81/5e48c38fdd/31785
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/655850066c36955259a174c81dcf7f14.png",MX: Teleritmo
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9066
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/fbe55ec25fc899d2e3627510717816f7.png",MX: Televisa Networks
+http://iptvtree.net:8080/86488e81/5e48c38fdd/31791
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a5aab5cf9b5929219698bc9486baa80c.png",MX: Tlnovelas
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9141
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/2d31036601046a0b55481cce7da5f81d.png",MX: TNT Series
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9139
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b861cb6a74cbb1ff2b70855e9f56a24.png",MX: TUDN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/31784
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c96a64148f8d48eafdc5ab59f824a20e.png",MX: TVC Deportes
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9075
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0c936060ef7611689676c2134171fb61.png",MX: Unicable
+http://iptvtree.net:8080/86488e81/5e48c38fdd/5804
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a82db4330339db82492965b7c1988734.png",MX: Warner TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9142
+#EXTINF:-1 group-title="Peru" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/19e405dc8c8b428b420a5df91c353005.jfif",PE: Clips TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295810
+#EXTINF:-1 group-title="Peru" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9a74a744a38f95d26aaff9e72dde2894.png",PE: ESPN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295657
+#EXTINF:-1 group-title="Peru" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5a99fc538e2a9b20763af4a26e7141a3.png",PE: ESPN 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295656
+#EXTINF:-1 group-title="Peru" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/25eb94846f5ffb8042d806f70cd1acab.png",PE: Exitosa
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295658
+#EXTINF:-1 group-title="Peru" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/97adeb388d5e24e16b28238d89392044.png",PE: Gol Peru
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8990
+#EXTINF:-1 group-title="Peru" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/fa2a1093a13b0fe766671fd7566c36a5.jpg",PE: Oxigeno
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6941
+#EXTINF:-1 group-title="Suriname" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/7e174411fb62d81bf12aea8db58d7a98.png",SUR: Discovery Turbo
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49455
+#EXTINF:-1 group-title="Suriname" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e4bc919fb14b1b26ad97f4716055fd14.png",SUR: FOX SPORTS 3
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8740
+#EXTINF:-1 group-title="Suriname" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/334b5b078ab442ca4bd7030195dd2965.png",SUR: Telepacifico
+http://iptvtree.net:8080/86488e81/5e48c38fdd/76282
+#EXTINF:-1 group-title="USA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/32620b125672dfe01b631c02d1a4dabb.png",US: 30a TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/197735
+#EXTINF:-1 group-title="USA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d30016cc3016e6876c8fdbf97b5571a2.png",US: 360 Tunebox
+http://iptvtree.net:8080/86488e81/5e48c38fdd/291132
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/baf3134105f2ba7e681080651ebac729.png",US: 5 Star max
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2291
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2840e29d141db3516aa94a31848faf44.png",US: A&E
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2746
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dbb84bc5c8ad17cb804dc0508b3fbb46.png",US: ACC Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/29664
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d8eb5f96e6d74065d1d5d3d1371e43fd.png",US: ActionMax
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2274
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/207f229a260b98e94d515dae160a4c48.png",US: Adrenalina Sports Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/47945
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5bb3f9aa12c2cba0aa25e490840e57ba.png",US: AMC
+http://iptvtree.net:8080/86488e81/5e48c38fdd/751
+#EXTINF:-1 group-title="USA ➾ Nature" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/26c5334f6379a086e510b35b01f6bd47.png",US: ANIMAL PLANET
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6329
+#EXTINF:-1 group-title="USA ➾ Nature" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/de091ea913aab9e270d8418df2fe4176.png",US: ANIMAL PLANET Europe
+http://iptvtree.net:8080/86488e81/5e48c38fdd/20320
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/6171316244f0f9d7cb14a0a3f962574e.png",US: AT&T SportsNet
+http://iptvtree.net:8080/86488e81/5e48c38fdd/59945
+#EXTINF:-1 group-title="USA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/6f681cb01bfb3a81544ca6a3e63ea99c.png",US: Atlanta Georgia WPCH TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/484
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/54cb6438936c007da51614a32fd7e3d2.png",US: Augusta Georgia WBPI CD
+http://iptvtree.net:8080/86488e81/5e48c38fdd/166292
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b6d02a0595073d89b0121b0ecfafddd2.png",US: AWE
+http://iptvtree.net:8080/86488e81/5e48c38fdd/15118
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ba8c119f39a67301a61327462ab5cf62.png",US: AXS TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/15117
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0b2ecaf6211ae11aa8e294fac8d22b31.png",US: Bally Sports Arizona Plus
+http://iptvtree.net:8080/86488e81/5e48c38fdd/150613
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4de29829f16a53e657cc3db6e234e390.png",US: Bally Sports Detroit
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6463
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/e1dd92a79b274d75c69d7dc4a440f0a4.png",US: Bally Sports Florida
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296662
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/d3abdef95c213f068407faccb2ea88d8.png",US: Bally Sports Florida Plus
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296664
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/e02da0e591b34b53f04f9654fa2fb717.png",US: Bally Sports Great Lakes
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296665
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/72cee830b80c1464666f319ce14d4191.png",US: Bally Sports Indiana
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296666
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/e16eb8089ba1e4c107aa56b5d103a58e.png",US: Bally Sports Kansas City
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296667
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/71682ac1945e0bb4e4fa6a144cc4731d.png",US: Bally Sports Midwest
+http://iptvtree.net:8080/86488e81/5e48c38fdd/58557
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/6f6b51944bd9bfb34765fd84ebde36d5.png",US: Bally Sports New Orleans
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296672
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7050ebe3c5c133e7e4caf294f1f00b84.png",US: Bally Sports North
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2324
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/95344230d27ebefff1417a300fddf3d3.png",US: Bally Sports North Plus
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296674
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/ef1ba362a1ddfff93e1100e2a4c0e2be.png",US: Bally Sports Ohio
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296675
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/2f400ce03ebc36da3128dd539f920c11.png",US: Bally Sports Ohio Plus
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296678
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/0ea318281a2d9359a0a444e8958b367a.png",US: Bally Sports Oklahoma
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6452
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/93c01620cab5644f8e93bcb398596f2c.png",US: Bally Sports San Diego
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3361
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/c38e618757eadf3d146920cb4e3e06bb.png",US: Bally Sports SoCal
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296681
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/5f6098b7f5d4f5483114d31d49b2fc8b.png",US: Bally Sports South
+http://iptvtree.net:8080/86488e81/5e48c38fdd/277374
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/df1ae38ac0fcb2cfd0138b0177555177.png",US: Bally Sports Southeast
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82301
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/beffce59a7f472589bbbfd63d1133a25.png",US: Bally Sports Southwest Plus
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296685
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8d757d37183d8c1141ef51906b47c9d5.png",US: Bally Sports Sun
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2325
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/961623ebf280e45374c01097665a8aea.png",US: Bally Sports West
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3367
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a761a2cd4adba4dbaf367ecaf8b12d0a.jpg",US: Bally Sports Wisconsin
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295668
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a5c4fc8ce29f59f0a5cca12752f4cbca.png",US: BBC America
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2277
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/b6ce2426cc52ca48e337dd2a263ccb21.jpg",US: beIN Sports
+http://iptvtree.net:8080/86488e81/5e48c38fdd/284530
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6129fe72ded1a946884fed4f021411fa.png",US: beIN Sports 1
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2272
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/36c8a2f7e977b190633248afab44b0be.png",US: beIN Sports 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/151022
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/d633a8820b5347f07f377b0961e49033.png",US: beIN Sports 3
+http://iptvtree.net:8080/86488e81/5e48c38fdd/151025
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/968b2561d3ef02a84e6761d4d914db6a.png",US: beIN Sports 4
+http://iptvtree.net:8080/86488e81/5e48c38fdd/151024
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/143beddb5ede0e1f1c962d27225f73e8.png",US: beIN Sports 5
+http://iptvtree.net:8080/86488e81/5e48c38fdd/151026
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/508c7fe8551803cd75658da2876e94c9.png",US: beIN Sports 6
+http://iptvtree.net:8080/86488e81/5e48c38fdd/151030
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/35bdc00f1836b7669f614ffa005537c1.png",US: beIN Sports 7
+http://iptvtree.net:8080/86488e81/5e48c38fdd/151028
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/ac031332317a1f4f3209a4a4aa54df90.png",US: beIN Sports n
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296690
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/1af633ac21f674213181b644bd010f25.png",US: beIN Sports USA
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296691
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2100155aebd676ec6e53a81a6f43c322.png",US: BET
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2278
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bfccbf9ed73311b206df744078ae3bad.png",US: BET Her
+http://iptvtree.net:8080/86488e81/5e48c38fdd/15898
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/917cd50873417cff8dc1999dade4dac0.png",US: BET Jams
+http://iptvtree.net:8080/86488e81/5e48c38fdd/30936
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2d452754249395b2098ec8f97e8f7bf5.png",US: BET Soul
+http://iptvtree.net:8080/86488e81/5e48c38fdd/13006
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/05d6c14b8971c0456e87fa460b0f6319.png",US: Big Ten Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2279
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/147df3a992a76a6cebc0e26f825aa7b5.jpeg",US: Black News Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/284042
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a4867ed7564efb55bd7f5af1fd61c88e.png",US: Bloomberg TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2280
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c2159c07b7e7e558c2e9bef766df71c6.png",US: Bravo
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2282
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0294ca889a775960f3add420e4f44c3e.png",US: C SPAN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/14804
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e958867effe8980a9a7694eeec9bcf94.png",US: C SPAN 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2284
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0399a88a386057dc08c120c53f53952e.png",US: C SPAN 3
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2285
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/4ebccbafa457afb595a63da26eb03451.gif",US: California Music Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/163079
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/4cec690688065ad2981632779288f01d.png",US: CBN News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/147400
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/394e113f22fee6021c7b600eacc12a07.png",US: Club MTV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/4734
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/7083cf4b25d03051d231876e2202ce92.gif",US: CMC USA
+http://iptvtree.net:8080/86488e81/5e48c38fdd/265887
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/51183f92d3c9f7f237251191558264e6.png",US: CMT
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2294
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/930d9bbb0c0107df1b011f45e4c83e56.png",US: CNBC
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2295
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/72bc83529c38bf2e0c8c993770c691f4.png",US: CNBC 17 Victoria Texas KMOL TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/200871
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/eefd6b8df840a06eb34f80c50f79d290.png",US: CNN International
+http://iptvtree.net:8080/86488e81/5e48c38fdd/753
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/117546bb55abcea2d811d1dd278d1fdf.png",US: CNN USA
+http://iptvtree.net:8080/86488e81/5e48c38fdd/480
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/21ce2e8a7702b1079957fbf5fcf9bd38.png",US: Comedy Central
+http://iptvtree.net:8080/86488e81/5e48c38fdd/754
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/522dcffba02379c064ec85f72c8e4cd5.png",US: Comet
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6497
+#EXTINF:-1 group-title="USA ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/7bb79b798ff1795c28e7b87e7da672fc.png",US: ConTV Anime
+http://iptvtree.net:8080/86488e81/5e48c38fdd/197736
+#EXTINF:-1 group-title="USA ➾ Food" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c1ab144fcffab497d354511a2649ed8c.png",US: Cooking Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2297
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e296ca15188d447ce28a3e865dade8df.png",US: Cozi TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8392
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/56177b770d1fe851c9b71ff460b70b9a.png",US: Destination America
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2299
+#EXTINF:-1 group-title="USA ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2494761535aad69b6250769697fa97cf.png",US: Discovery Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/23301
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/359d23123d6c64b5fe664913741fba38.png",US: Discovery Family
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2300
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d00484f292486af189a6d1e48e3e1a9a.png",US: Discovery Life Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/201208
+#EXTINF:-1 group-title="USA ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a6bbb72b2aec0ec25c49e543a33b8d0e.png",US: Discovery Science
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2301
+#EXTINF:-1 group-title="USA ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2bce6bd90e7e3b1f93a50bb36f73d686.png",US: Discovery Velocity
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2302
+#EXTINF:-1 group-title="USA ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a45789c7616a76bbf20dad9baf7e5282.png",US: Discovery World
+http://iptvtree.net:8080/86488e81/5e48c38fdd/755
+#EXTINF:-1 group-title="USA ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/239223919b68f1ddfee44002f2820718.png",US: Disney Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2303
+#EXTINF:-1 group-title="USA ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e4f6e7fe7bbed7f932fdfa9399261604.png",US: Disney Junior
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8608
+#EXTINF:-1 group-title="USA ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/04dc42d583bea654a88f87449c173839.png",US: Disney XD
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6395
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/873e7bf90507edd1036f9b0550ac66e7.png",US: Dog TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9699
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d53336c85cead8784b05a5f0ceb581ff.png",US: E!
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2306
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/85d3fdd66aaece206c93c8f7bdb19b5c.png",US: Eleven Sports
+http://iptvtree.net:8080/86488e81/5e48c38fdd/7765
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0569998418821ecce4929fe1057c8749.png",US: Epix
+http://iptvtree.net:8080/86488e81/5e48c38fdd/15096
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8bd932dff55c15e19dd262dacb5312f3.png",US: Epix 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6372
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8280932ffc579846a2904f0a8af764c0.png",US: Epix Drive In
+http://iptvtree.net:8080/86488e81/5e48c38fdd/35054
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/08b276db9c9a66bb2793a632e7ab0801.png",US: Epix Hits
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6357
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a53b014f324eb9850b02cefe0b29e68a.png",US: ESPN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/747
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bb7f0a14bf41b0d0cb5a524a7ef46dd6.png",US: ESPN 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/41918
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0fffb31df9ca2245144bf1fb772b641d.jpg",US: ESPN 3
+http://iptvtree.net:8080/86488e81/5e48c38fdd/14816
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/563035a6fbe029b233bb53cdf2d3cbac.png",US: ESPN News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2312
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/15094ba088f2e48b88e81236d6336575.png",US: ESPNU
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2311
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/b5b2487fb5c5ed76cf033c576203f037.png",US: Estrella News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/284052
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/a76e790f26efe66ebece2f31f6bdaa8b.jpg",US: FashionTV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295034
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7f4b6b73ae00fc12673c82dcc4891361.png",US: FIGHT BOX
+http://iptvtree.net:8080/86488e81/5e48c38fdd/530
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a9865cf5656e66cf839c5a669f5799db.png",US: Food Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2315
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/3844c7638b2a5b06dbd0093d84f14619.jpeg",US: FoxNet
+http://iptvtree.net:8080/86488e81/5e48c38fdd/147591
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/30569238d01ed9c7e8f50b4f61c70865.png",US: FS1
+http://iptvtree.net:8080/86488e81/5e48c38fdd/756
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/856321c9d4796d595d69b69d276520c9.png",US: FS2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/757
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/bcd69b855130ac864265824caf557b36.png",US: FTF Sports
+http://iptvtree.net:8080/86488e81/5e48c38fdd/294679
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/31d88fb95a531c5b8424cfe35bd0edc4.svg",US: FTV New York
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296656
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/23cf809bb5d4cc0720494217f09663e4.png",US: Fubo Sports Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/147553
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/a008fecfcc8d7f48590e9741fdf704fd.png",US: Fuel TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/11712
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e43ed6a8fffa550ae3fb9c38e4f3f057.png",US: Fuse
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6361
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e1f7476fbe35270653143a6a21389a85.png",US: FX
+http://iptvtree.net:8080/86488e81/5e48c38fdd/758
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f959d31a8383b988aa09693a30a68f96.jpg",US: FXM Retro
+http://iptvtree.net:8080/86488e81/5e48c38fdd/5840
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0cf4f7d3c0bfe1900e79a952e11147aa.png",US: FXX
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2330
+#EXTINF:-1 group-title="USA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/aeee918da5ec402d3da84401efc5df9f.png",US: FYI
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9234
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/b007cea7b4e25fe4b9fafd9770413142.svg",US: GAC Family
+http://iptvtree.net:8080/86488e81/5e48c38fdd/200075
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/abe3b3d70f85d4bb5ce514326cef08f9.png",US: Game Show Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/466
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/b9af27bb60a53910e75f0812f38995d2.png",US: Glewed TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/281954
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5164471a041a09ae2a58dbfc5978f766.png",US: Golf Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/5845
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/d760a2e5c96c7403b56de004c6e055ac.png",US: GoUSA TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/294678
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/5ae9b59f43fe97054b01bf6701d69b85.jpeg",US: Gravitas Movies
+http://iptvtree.net:8080/86488e81/5e48c38fdd/281943
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a33e5715cf763a606780628bb8e8b930.png",US: Grit
+http://iptvtree.net:8080/86488e81/5e48c38fdd/15086
+#EXTINF:-1 group-title="USA ➾ Food" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/bb7208e5ed45b60bfa2648d0ac85c013.svg",US: Gusto TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/281951
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9d4f141d9697ce3e5bff43e3e5dce90d.png",US: Hallmark Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/759
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5eded609bcc764818c14afca017ad2ce.png",US: Hallmark Drama
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3387
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/abc75ec2e23ebd708295d28c4a78404b.png",US: Hallmark Movies & Mysteries
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3388
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/65914d3c0cdabf8b5b9f57411c5366e5.png",US: Hardeeville South Carolina WTGS
+http://iptvtree.net:8080/86488e81/5e48c38fdd/200819
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/e88f2f1db154d1e7555f9cbd99f38fcc.png",US: HBO
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2336
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/79c60a05cd0b554a1c2b465e5004313b.png",US: HBO 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/5844
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d006de5f08a0cb1dc56c649758d30c05.png",US: HBO Comedy
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2335
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/368ee4e3ee59bbf1668ceca64040668a.png",US: HBO Family
+http://iptvtree.net:8080/86488e81/5e48c38fdd/760
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a667b579cc8303910eeee9faa296efc1.png",US: HBO Signature
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6305
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fdfd8af1d831741a56868d7643fdc15d.png",US: HBO Zone
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6328
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/8bbe5654f1224356456b7ae7d20d2846.png",US: HDNet Movies
+http://iptvtree.net:8080/86488e81/5e48c38fdd/200162
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4e08d5b87b33a42ab5d3f2c0a6eaddfc.png",US: HGTV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2273
+#EXTINF:-1 group-title="USA ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d2acf62cd2fcd32d25ad9b4c2d001ae2.png",US: History
+http://iptvtree.net:8080/86488e81/5e48c38fdd/761
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/db045ee5751934287bb38851a0dab31a.png",US: HLN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6346
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4f03da8314f153f6bce16d1cfe9becf7.png",US: HSN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/15455
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3979eea600fff61422e88e89e2c9be7a.png",US: IFC
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2339
+#EXTINF:-1 group-title="USA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/c36827a41f33e4ede318027c490cfab8.png",US: Impact TV Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/198567
+#EXTINF:-1 group-title="USA ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/54c21addf47bf3012a20c4aeb4b43b60.png",US: Investigation Discovery
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8557
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1062a075127055a56e7422c210404c47.png",US: ION TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/147661
+
+#EXTINF:-1 group-title="USA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/528851e1bc583c89875a0100fa261942.png",US: Law & Crime
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8586
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5f8d5366853068e0cd1ac77957e80aa4.png",US: Lifetime
+http://iptvtree.net:8080/86488e81/5e48c38fdd/4667
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/378d493432655ace7636a9c9f16d3ede.png",US: Lifetime Movies
+http://iptvtree.net:8080/86488e81/5e48c38fdd/12992
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bfbc3205f63f85ecc0e6c1c0079e41b4.png",US: Longhorn Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2340
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/fd4d6b0aa8b512c1a0871775e0cdd8be.png",US: Los Angeles California KCAL TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295381
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/b5ed714354ee492ecfaa83cc9764ba61.png",US: LSN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296738
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/2f992fcaf0a7f2364c97bccd12c3bd98.png",US: Magnolia Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/469
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/889bc904cfbc10fb3c5791af964f4f98.png",US: Marquee Sports
+http://iptvtree.net:8080/86488e81/5e48c38fdd/150609
+#EXTINF:-1 group-title="USA ➾ Motor Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a709b1c41887a712be0228e096b9b5d2.png",US: MavTV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9320
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1db5e432fd52d94c3da738844ec90eb1.png",US: Me TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/15450
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8e45359930ad5c87fae491800f570fb8.png",US: MLB Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2342
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/70c0db2dd46d60b48418ec3299d65ddd.png",US: MoreMax
+http://iptvtree.net:8080/86488e81/5e48c38fdd/752
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/772b634266e62ebfc1363128a0a36206.png",US: Motortrend
+http://iptvtree.net:8080/86488e81/5e48c38fdd/272264
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cb1fdc8f53f95cb4e59f2458bc311404.png",US: MovieMax
+http://iptvtree.net:8080/86488e81/5e48c38fdd/15110
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2d7f2afa066c3d8e643874ece3de5047.png",US: MoviePlex
+http://iptvtree.net:8080/86488e81/5e48c38fdd/38477
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/043121d89a8cc59a45b250e46c5b1849.png",US: MSG
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3382
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0b5bc4fe9c0293f425ae9ae8998085e8.png",US: MSG 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/25213
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/42ef8037b13518ff0466adc087caa291.png",US: MSG+
+http://iptvtree.net:8080/86488e81/5e48c38fdd/25209
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1279b30b8e9704c9f7b557d3bd19e8ee.png",US: MSNBC
+http://iptvtree.net:8080/86488e81/5e48c38fdd/406
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/928b1bb2310329b7809241d92fc30061.png",US: MTV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2344
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/09cc4c6c30d46d10fc0f05137b9203ed.png",US: MTV 00s
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1533
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/5aa556bace610c8bc65e10e0822995b8.png",US: MTV 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/459
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/5d835a17ef8e354c192ac4cb508786b2.png",US: MTV 80s
+http://iptvtree.net:8080/86488e81/5e48c38fdd/19911
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7d4becbed0d461d8dc25ae62ea473f97.png",US: MTV 90s
+http://iptvtree.net:8080/86488e81/5e48c38fdd/5352
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/7c42b1e9f22d73b359a8626337fc42d3.jpg",US: MTV Base Africa
+http://iptvtree.net:8080/86488e81/5e48c38fdd/32840
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/6a9be37123e36e726eb8d071f434654a.png",US: MTV Classic
+http://iptvtree.net:8080/86488e81/5e48c38fdd/290680
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b8a13ece3e61f706b0ba8b65784a39df.png",US: MTV Hits
+http://iptvtree.net:8080/86488e81/5e48c38fdd/4736
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/8a094477f290cd6d46ae02decdc98371.png",US: MTV Hits Latin America
+http://iptvtree.net:8080/86488e81/5e48c38fdd/4728
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/2bd71aa02833d403385d52f26700f74b.png",US: MTV Live
+http://iptvtree.net:8080/86488e81/5e48c38fdd/9047
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2fd03b160cbd6cf993329d6be134c42b.png",US: MTV Live USA
+http://iptvtree.net:8080/86488e81/5e48c38fdd/15452
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2715ca9ae65a9c212b299d9a70a23006.png",US: MTV U
+http://iptvtree.net:8080/86488e81/5e48c38fdd/57018
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/503781a607939b44ce0de66ee170f7e6.png",US: Music Choice 90s
+http://iptvtree.net:8080/86488e81/5e48c38fdd/66078
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d2b3f0bf29144b4fd6a83ab9e69ab5a8.png",US: Music Choice Classic Alternative
+http://iptvtree.net:8080/86488e81/5e48c38fdd/66103
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/617a974c5c2eed0f619ae314bbc9df71.png",US: Music Choice Dance EDM
+http://iptvtree.net:8080/86488e81/5e48c38fdd/192207
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9ee50880b97a71a3a3d42697aa7bc9ec.png",US: Music Choice Hip Hop & R&B
+http://iptvtree.net:8080/86488e81/5e48c38fdd/66075
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/394ef70a4ee58bcbe2c00fc7d250ff61.png",US: Music Choice Hit List
+http://iptvtree.net:8080/86488e81/5e48c38fdd/66074
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/d92cc1ca67062af980ce1e8ac07f324c.png",US: Music Choice Kidz Bop
+http://iptvtree.net:8080/86488e81/5e48c38fdd/66104
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7c59b921b8d74243f201fa2b14299666.png",US: Music Choice Kidz Only
+http://iptvtree.net:8080/86488e81/5e48c38fdd/66105
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0e643245476f245477686d03f63e85fb.png",US: Music Choice Latino
+http://iptvtree.net:8080/86488e81/5e48c38fdd/226061
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/1d6f4131be3b16b47e4e6b53047e8caf.png",US: Music Choice Max
+http://iptvtree.net:8080/86488e81/5e48c38fdd/66084
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/347482c13b2afab5c72938bfaf9e26cb.png",US: Music Choice Mexican
+http://iptvtree.net:8080/86488e81/5e48c38fdd/66101
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a81782b7e17a77bd5dfb7a59d5517e77.png",US: Music Choice Musica URBANa
+http://iptvtree.net:8080/86488e81/5e48c38fdd/66094
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a530d791514915cd72288b06ff5bc567.png",US: Music Choice Pop & Country
+http://iptvtree.net:8080/86488e81/5e48c38fdd/66083
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/86eab495da97353a2c504a8c4d925890.png",US: Music Choice Pop Hits
+http://iptvtree.net:8080/86488e81/5e48c38fdd/66082
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/93609fd6a423881a8471115065a35339.png",US: Music Choice Pop Latino
+http://iptvtree.net:8080/86488e81/5e48c38fdd/66090
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/898778637b66770861f9ed69baf653a3.png",US: Music Choice R&B Soul
+http://iptvtree.net:8080/86488e81/5e48c38fdd/66079
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/707818aa584257b9398d292e4b63f02a.png",US: Music Choice Rock
+http://iptvtree.net:8080/86488e81/5e48c38fdd/282818
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/38b1eade90d3fe9809b3369103ce8a4c.png",US: Music Choice Teen Beats
+http://iptvtree.net:8080/86488e81/5e48c38fdd/66077
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6915ffa06dc1d8c66ae1dd128dd25aee.png",US: Music Choice Throwback Jamz
+http://iptvtree.net:8080/86488e81/5e48c38fdd/66100
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bad35022f22293111d53b5951f8d2750.png",US: Music Choice Todays Country
+http://iptvtree.net:8080/86488e81/5e48c38fdd/66076
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/aac7053c470ca3d1e2dc2131f423784e.png",US: Music choice Toddler Tunes
+http://iptvtree.net:8080/86488e81/5e48c38fdd/66099
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/30e8277fa8034437c4c35811ec736902.png",US: Music Choice Tropicales
+http://iptvtree.net:8080/86488e81/5e48c38fdd/148267
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d3ca100163c2fcfe065a186b2cf7e3ab.png",US: Music Choice Y2K
+http://iptvtree.net:8080/86488e81/5e48c38fdd/66088
+#EXTINF:-1 group-title="USA ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/db4fd024fa7cd582051275ac44a579e8.png",US: Nasa TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/35586
+#EXTINF:-1 group-title="USA ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7a9fd08d12f6c76c620bcef76c1438c7.png",US: NAT GEO
+http://iptvtree.net:8080/86488e81/5e48c38fdd/749
+#EXTINF:-1 group-title="USA ➾ Nature" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fa9e9e44d448684c2043bbb9f38655ff.png",US: NAT GEO Wild
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6503
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c7a9e9894c533532f081256e9aeb556c.png",US: NBA TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/762
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/e3d296dfb2d0aab1bf46d958887fe98e.jpeg",US: NBC 2 News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/163264
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/d81b78bc2752e9c75032ecd8ba9b37cc.jpeg",US: Newsnet
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193458
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f883325e4f24275ba603f8a365c03b4f.png",US: NFL Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2367
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d81c09f981e2093eadc0fb2ce34ec05c.png",US: NFL RedZone
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2369
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a06878d699891a69b85f4ac0b178dcd6.png",US: NHL Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2348
+#EXTINF:-1 group-title="USA ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e457f2d013cddfe5d2a4952cc6f444ea.png",US: NickMusic
+http://iptvtree.net:8080/86488e81/5e48c38fdd/12982
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7e1ec3558fb25adcea2c9978d794fd45.png",US: One America News Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/196192
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7a2a46e30ff85e500d3760e255eff08a.png",US: Oprah Winfrey Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2352
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22a9dab1ec54dc5f2667539a09e58f2b.png",US: Outdoor Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/15075
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/88e8f809969db1216e3ff935d90202a4.png",US: OuterMax
+http://iptvtree.net:8080/86488e81/5e48c38fdd/15109
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cea1c06515fdfc785c2b94c9c421e37c.png",US: Outside TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6340
+#EXTINF:-1 group-title="USA ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/007e6223339e4422814d3e4f60c56c18.png",US: Oxygen
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6378
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/34c48b631419d06e9b9d409435e001f2.jpg",US: PAC 12 Arizona
+http://iptvtree.net:8080/86488e81/5e48c38fdd/7789
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0319781d23595359a3df54e23ce8c912.jpg",US: PAC 12 Bay Area
+http://iptvtree.net:8080/86488e81/5e48c38fdd/7796
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/136d7c767b1549a452e8c031abdd4189.jpg",US: PAC 12 Los Angeles
+http://iptvtree.net:8080/86488e81/5e48c38fdd/7790
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5dc8e9571b0826e0a9f708660381689f.jpg",US: PAC 12 Mountain
+http://iptvtree.net:8080/86488e81/5e48c38fdd/7793
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e7051aa01a954c84b2942b412304b2ab.jpg",US: PAC 12 Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/35140
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ece236e42a5ff58840320d53328169c3.jpg",US: PAC 12 Oregon
+http://iptvtree.net:8080/86488e81/5e48c38fdd/7791
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6344f4acb3f08d514e2af4441c06f9a6.jpg",US: PAC 12 Washington
+http://iptvtree.net:8080/86488e81/5e48c38fdd/7792
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/9a0cc4b0651789317273bd108332ef94.jpg",US: Paramount Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/14839
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0c31234e260bc6f59337c793d9c8d322.png",US: Pursuit Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/15448
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/34d3f8c0a91117eff148a31c6b9f2022.png",US: Radio U TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/166262
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ac781e12572abe1b4451609cd1253888.png",US: Reelz
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2354
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/3d3ea365ca51a84fd61f4938546412b2.png",US: Retro Music TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/163080
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c05111ed0c303d92a6b410a9719fba5.png",US: RetroPlex
+http://iptvtree.net:8080/86488e81/5e48c38fdd/76356
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/1df66ffeee2c9243dd7dbc5bbdff7cd8.png",US: Reuters TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/282291
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7775ae5a3ebb06778b601c1f6f2788ca.png",US: Revolt
+http://iptvtree.net:8080/86488e81/5e48c38fdd/15445
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/c60ae894b5435509c9b6e3f961d8a464.png",US: Revry
+http://iptvtree.net:8080/86488e81/5e48c38fdd/281945
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/22e183bb136428e17490ead897e96308.png",US: Revry News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/282295
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/678865566a2847cbad9a51405b28d99d.png",US: RFD TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/150738
+#EXTINF:-1 group-title="USA ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c7db89d480ccb17cdfb8a0f512f256c5.png",US: Science
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6495
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6be57f5db2aaa8666a7a8ae38ab98042.png",US: SEC Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6447
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/daf06bc3f7a6703f425122ac102cb70a.png",US: Shorts TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/281900
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bb167150b4e17479be89ab93490bd3f2.png",US: Showtime
+http://iptvtree.net:8080/86488e81/5e48c38fdd/765
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/91d1636d38818d7397f8c2f1cd44790d.png",US: Showtime Extreme
+http://iptvtree.net:8080/86488e81/5e48c38fdd/12036
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c4f0b00a93b31f60ee2c0bb87de2d7f.png",US: Showtime Family Zone
+http://iptvtree.net:8080/86488e81/5e48c38fdd/16139
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2fa0301625b9f9cfacdd39e05b215e1d.png",US: Showtime Next
+http://iptvtree.net:8080/86488e81/5e48c38fdd/13008
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f3f5c8d05f9dadbdc79167f264fb8dd.png",US: Showtime Showcase
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6306
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7a11b929eeedadbcc4fd21be32e5a3f2.png",US: Showtime Women
+http://iptvtree.net:8080/86488e81/5e48c38fdd/12995
+#EXTINF:-1 group-title="USA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7348c25eb71dcf1d4f6a4c53ed48ec35.png",US: Smithsonian Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8585
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0a99e4e6b0b4ca220ce21f483b3c4e4a.png",US: Sony Movies
+http://iptvtree.net:8080/86488e81/5e48c38fdd/5831
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/28850225ab5f091b46f01cb06a91137c.png",US: Spectrum SportsNet
+http://iptvtree.net:8080/86488e81/5e48c38fdd/150611
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/a69f8113d7455328f053de8616c7ff08.png",US: SportsGrid
+http://iptvtree.net:8080/86488e81/5e48c38fdd/282284
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/4d3be2d2fe87b116a6880e896bf6f45e.png",US: Sportsman Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/30847
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/f70621511670129bfd2d128584861d17.jpeg",US: Stadium
+http://iptvtree.net:8080/86488e81/5e48c38fdd/29657
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3ec3caffc000f6cbe82d9377789cde19.png",US: Start TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/151056
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4bf8db70bda5c987a510f9e3666f3094.png",US: Starz
+http://iptvtree.net:8080/86488e81/5e48c38fdd/12044
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c4b96c7068312d06a011d2b3f3fd42c6.png",US: Starz Cinema
+http://iptvtree.net:8080/86488e81/5e48c38fdd/767
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5422f0653ef91c2b40f4c6e2e2fc211a.png",US: Starz Comedy
+http://iptvtree.net:8080/86488e81/5e48c38fdd/12040
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5a26b5b34b44800918a9340077f64c4c.png",US: Starz East
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6302
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/70e67775b3c927a8057302f038b6597e.png",US: Starz Edge
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2357
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3f89eb81c622b3c67bb0a1d22ad57f9e.png",US: Starz Encore
+http://iptvtree.net:8080/86488e81/5e48c38fdd/38500
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f222f053df5e604b3279b4af49b7cdb8.png",US: Starz Encore Action
+http://iptvtree.net:8080/86488e81/5e48c38fdd/30773
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/0d7a5651fb932666fbda235bcd4c170a.png",US: Starz Encore Black
+http://iptvtree.net:8080/86488e81/5e48c38fdd/47925
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/559f4fb0af29a03deca927884af5cbcd.png",US: Starz Encore Classic
+http://iptvtree.net:8080/86488e81/5e48c38fdd/25816
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/28d8a8f01bf2f8a69cabc1d18ec038a5.png",US: Starz Encore Family
+http://iptvtree.net:8080/86488e81/5e48c38fdd/47926
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/7a8169950956b2a6700f5242f65221ae.png",US: Starz Encore Suspense
+http://iptvtree.net:8080/86488e81/5e48c38fdd/38501
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/8c35fa692a3d2cff932d795d4188ff4e.png",US: Starz Encore Western
+http://iptvtree.net:8080/86488e81/5e48c38fdd/47928
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/f9f075c5da147ffa228619f569ed00d3.png",US: Starz In Black
+http://iptvtree.net:8080/86488e81/5e48c38fdd/15056
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/886f9118de3aa4642609ceb78e94fca6.png",US: Starz Kids & Family
+http://iptvtree.net:8080/86488e81/5e48c38fdd/15052
+#EXTINF:-1 group-title="USA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fd2e21d6615417c58ae1b772ef31bb2f.png",US: Sundance TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2358
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/64d18b42b9cc49a55ea3f8898f7d0799.png",US: SYFY
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2359
+#EXTINF:-1 group-title="USA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/4d83bf20e02221bb17a4bdb7110a1a17.png",US: TasteMade
+http://iptvtree.net:8080/86488e81/5e48c38fdd/147577
+#EXTINF:-1 group-title="USA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/e75c9e35bff10daa9b4018381faee09e.png",US: TBN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/71724
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/3e82e33428e9c5bc0a0bdf19957d3d73.png",US: TBS
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295674
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/451bc642eea9c50d9dd697b5224093ee.png",US: TCM Movies
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193459
+#EXTINF:-1 group-title="USA ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/81dc01e5eaa81462aa1dbc0e12faf12a.png",US: TeenNick
+http://iptvtree.net:8080/86488e81/5e48c38fdd/15058
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/590b3e12b150b7db6d5fc81e53da0d82.png",US: Tennis Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2275
+#EXTINF:-1 group-title="USA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",US: The Beach Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296655
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/3251e0b3c9a4c61a372e80af6a22782b.jpeg",US: The Design Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/281955
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/dd818451a8883d944f234b0c07300f0b.png",US: The Pet Collective
+http://iptvtree.net:8080/86488e81/5e48c38fdd/294673
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/c3412343dcf6851bc1a322849070f400.png",US: The Preview Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/281946
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/340a21b0baa0a6137b80dd02dfc0545f.png",US: The Weather Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2361
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9022ee496dce7e3fd1862887067e7f65.png",US: ThrillerMax
+http://iptvtree.net:8080/86488e81/5e48c38fdd/78147
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/965e92f3c2bb1f3c202d789f9737d141.png",US: TLC
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2362
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0d99a1bcbe12391bfda85b19f1a13268.png",US: TNT
+http://iptvtree.net:8080/86488e81/5e48c38fdd/769
+#EXTINF:-1 group-title="USA ➾ Nature" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/a8130c54266d7463472fcfdf096b1b0f.png",US: Travel Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1066
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ecb80549a4bf6c7811e9bb61653269d1.png",US: tru TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6376
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3aa20b9a9cfc9f5694b4f3946cab6d1c.png",US: TV Land
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2364
+#EXTINF:-1 group-title="USA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/241d1dabdd405409c5d12a9c7021fbd9.png",US: Universal Premiere
+http://iptvtree.net:8080/86488e81/5e48c38fdd/291223
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/b0344a599925f97936b6368864712e6a.png",US: UP TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/200160
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/00667b88498f63e36154ccb82c05a561.png",US: USA Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3390
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/63de9a3f9cfadf2581aef9175381fe6e.png",US: VH1
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2370
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0226673dfcbbefccc6fd88cbb21d2a79.png",US: VSiN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/150629
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8c8ea3f9f6d4ae957097d9c7a17027bb.png",US: We TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6347
+#EXTINF:-1 group-title="USA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8b1f7e07585c4e529a7a87f9d140f97d.png",US: WeatherNation
+http://iptvtree.net:8080/86488e81/5e48c38fdd/24330
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3a20afd154f94482c2f456803bed516a.png",US: Willow
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2372
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/2a9ac0a71cf1b13842fb8ac73f0f7bad.png",US: Willow Xtra
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296763
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/baa5e96d5ee41812429542aa5d04d596.png",US: WNBA
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296751
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7aa56e010e1692d81998e1d89d270aa2.png",US: WWE
+http://iptvtree.net:8080/86488e81/5e48c38fdd/2373
+#EXTINF:-1 group-title="Uruguay" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/cf8acf8e0e903b45076fc47353661c32.jpeg",UY: 1000 X Hora TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/169371
+#EXTINF:-1 group-title="Uruguay" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/3b5039ea5e0d2425aaf266130b1d497b.png",UY: VTV Plus
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8659
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: a3BIKINI
+http://iptvtree.net:8080/86488e81/5e48c38fdd/55196
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Adult Channel 1
+http://iptvtree.net:8080/86488e81/5e48c38fdd/290567
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Alba XXX 6
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8312
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Alba XXX HD1
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8311
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Alba XXX HD2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/8310
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: ATK Galleria
+http://iptvtree.net:8080/86488e81/5e48c38fdd/291229
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: babes
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296234
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: BALKAN EROTIC
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3320
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: BANG U
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3330
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: BARELY LEGAL
+http://iptvtree.net:8080/86488e81/5e48c38fdd/92037
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: BEATE UHSE
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3341
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Blue Hustler
+http://iptvtree.net:8080/86488e81/5e48c38fdd/37296
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: BRAZZERS
+http://iptvtree.net:8080/86488e81/5e48c38fdd/291234
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: BRAZZERS 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296072
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: BRAZZERS Europe
+http://iptvtree.net:8080/86488e81/5e48c38fdd/79
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: BRAZZERS Europe 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/291241
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Cento X Cento
+http://iptvtree.net:8080/86488e81/5e48c38fdd/245142
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: DORCEL
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3283
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eca5ed8af4d5a989426f9763e793ba63.png",XXX: DUSK
+http://iptvtree.net:8080/86488e81/5e48c38fdd/75
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0cc88b5e1837a574d9afd4c0b5548666.png",XXX: erotic
+http://iptvtree.net:8080/86488e81/5e48c38fdd/37153
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e3ecf142562fb0dd76722e5a3f3af9f5.png",XXX: erotic 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/76
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cb3e377994e967a278f87247ac8d4090.png",XXX: erotic 3
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3317
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/73b032b563fc35327ae7fe71903d64b3.png",XXX: erotic 4
+http://iptvtree.net:8080/86488e81/5e48c38fdd/52
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d784f6c8cc3da5b4f5a70e3fc0754145.png",XXX: erotic 5
+http://iptvtree.net:8080/86488e81/5e48c38fdd/35814
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ad731974dee83ee4da6cadbfe518b414.png",XXX: erotic 6
+http://iptvtree.net:8080/86488e81/5e48c38fdd/77
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/00837055688d2ce5957bb86611dfcd43.png",XXX: erotic 7
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3318
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/60782fcb30648b1df7389d5351a3f0e5.png",XXX: erotic 8
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3319
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e72bd471b8065c856a5bce7de14fc471.png",XXX: EROX
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3796
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3911eb41a72af8e58d98221401182480.png",XXX: EROXXX
+http://iptvtree.net:8080/86488e81/5e48c38fdd/37276
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/69d3c688eed474f0dcfa9157d718e31d.png",XXX: EVIL ANGEL
+http://iptvtree.net:8080/86488e81/5e48c38fdd/146259
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: EVIL ANGEL 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/291240
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: EVILANGEL 4K CUSTOMS
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296694
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8d7833a7af9700e7a01d8b3475f8ed9c.png",XXX: EXTASY
+http://iptvtree.net:8080/86488e81/5e48c38fdd/195567
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: EXTREME
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3329
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: French Lover
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3334
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9393de8ffa8c943b09bec0d2371b7eeb.png",XXX: HOT
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1538
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: HOT Gold
+http://iptvtree.net:8080/86488e81/5e48c38fdd/291250
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: HOT Pleasure
+http://iptvtree.net:8080/86488e81/5e48c38fdd/291246
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: HOT TABOO
+http://iptvtree.net:8080/86488e81/5e48c38fdd/290031
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: HOT XXL
+http://iptvtree.net:8080/86488e81/5e48c38fdd/15844
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/1161b5609e8639fa7922c371e25c63c2.png",XXX: HUSTLER HD
+http://iptvtree.net:8080/86488e81/5e48c38fdd/6028
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/39f670616f23f6bfb21d6f0aed98de65.png",XXX: Hustler TV RED
+http://iptvtree.net:8080/86488e81/5e48c38fdd/290277
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: LEO TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/283826
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Meiden Van Holland
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3311
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Miami TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1731
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Miami TV International
+http://iptvtree.net:8080/86488e81/5e48c38fdd/55212
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Miami TV Jenny For You
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296366
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Miami TV Jenny Live
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285514
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Miami TV Latino
+http://iptvtree.net:8080/86488e81/5e48c38fdd/18344
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: MILF TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3327
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: NET XX
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3324
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: nuart
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49169
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/89cbca28208f364ef1b47c06315afd71.png",XXX: O.La.La
+http://iptvtree.net:8080/86488e81/5e48c38fdd/36535
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8712b8aa05c4d22e29838d4eefe9e03.png",XXX: Passie
+http://iptvtree.net:8080/86488e81/5e48c38fdd/28298
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/db94ebdf2fe455251214a0f15a9ea99a.png",XXX: Passion
+http://iptvtree.net:8080/86488e81/5e48c38fdd/48
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ae248ced9cd536ee1723ab55d0a3e7c2.png",XXX: PENTHOUSE Gold
+http://iptvtree.net:8080/86488e81/5e48c38fdd/32056
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/44766506a37f3b088907703a0da4b7a8.png",XXX: PENTHOUSE Quickies
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3284
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PINKO CLUB
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3342
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d6dd1f934c75182cb6ac60b311ad8183.png",XXX: PLAYBOY
+http://iptvtree.net:8080/86488e81/5e48c38fdd/14222
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PLAYBOY DD
+http://iptvtree.net:8080/86488e81/5e48c38fdd/290310
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PLAYBOY Latino
+http://iptvtree.net:8080/86488e81/5e48c38fdd/290309
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9150f35348b9d8da4226de2b9ce6c9b2.png",XXX: Private TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3281
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e1a65ebbea073d02a2e015181b94f4a3.png",XXX: Reality Kings TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/383
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: RED LIPS
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296761
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8bf9a9c45c6293b91fc1f144f40e898e.png",XXX: REDLIGHT
+http://iptvtree.net:8080/86488e81/5e48c38fdd/85
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Russian Night
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49168
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Secret Circle
+http://iptvtree.net:8080/86488e81/5e48c38fdd/290298
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: SeXation
+http://iptvtree.net:8080/86488e81/5e48c38fdd/146437
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: SEXTREME
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3309
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Sexy HOT
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3310
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: SuperOne
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3286
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b6d6e0bb58bd4e3c2b4874c609918a94.png",XXX: VENUS
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3258
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/80ca765246e54cb9c7f6744b550ccd21.png",XXX: VISIT-X TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/28531
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: VIVID Red
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3989
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: VIVID Touch
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3295
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/57f0394829c11df6816fc99acd551126.png",XXX: VIVID TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/146434
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/5412f754d84f76d71e0af50dd73b23b1.png",XXX: VIXEN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/290296
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: X Bizarre
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3313
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: X Bunga Bunga
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3315
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: X Desire
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3791
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fa06cef9ac1eb267ae04ff8d77250e85.png",XXX: XXL
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3298
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1e02585dc3ba3c59be105d4156fc0de3.png",XXX: XY Max
+http://iptvtree.net:8080/86488e81/5e48c38fdd/192282
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: XY Mix
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3293
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: XY Plus FHD +1
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285212
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Шалун TV
